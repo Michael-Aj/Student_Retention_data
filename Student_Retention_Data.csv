@@ -1,0 +1,1001 @@
+Student Number,Student Name,Module(s),Qualification,Year,Week,Day,Assessment(s),Marks Obtained,Attendance Rate,Canvas Activity Score,Reason for AR,Intervention,Risk Level,Resolved?,NQF Level
+23121958,Student_0001,Module4,Programme2,Year1,Week4,Thu,,,0.95,0.77,None,None,Low,Yes,6
+23671155,Student_0002,Module3,Programme2,Year1,Week5,Tue,Assignment2,39.0,0.73,0.6,Assessment Failure_007,Counselling,High,Yes,6
+23131932,Student_0003,Module3,Programme2,Year1,Week4,Mon,Test2,59.7,0.74,0.98,None,None,Low,Yes,6
+24414414,Student_0004,Module2,Programme1,Year3,Week11,Fri,,,0.65,1.0,Class Attendance_007,Mentorship,Medium,No,5
+23259178,Student_0005,Module1,Programme1,Year2,Week12,Wed,Test2,22.5,0.89,0.82,Assessment Failure_007,Counselling,High,No,5
+24692743,Student_0006,Module5,Programme3,Year1,Week3,Mon,Test2,90.8,0.94,0.62,None,None,Low,No,7
+23110268,Student_0007,Module4,Programme2,Year1,Week8,Fri,Assignment1,74.7,0.89,0.5,Canvas Activity_007,Mentorship,Medium,No,6
+23732180,Student_0008,Module5,Programme3,Year1,Week10,Fri,,,1.0,0.83,None,None,Low,Yes,7
+24103462,Student_0009,Module5,Programme3,Year1,Week4,Thu,,,0.82,0.98,None,None,Low,No,7
+23137337,Student_0010,Module3,Programme2,Year1,Week2,Thu,Assignment1,37.1,0.92,0.87,Assessment Failure_007,Escalation,High,No,6
+23999890,Student_0011,Module4,Programme2,Year1,Week2,Thu,,,0.66,0.78,Class Attendance_007,Escalation,High,No,6
+24570006,Student_0012,Module5,Programme3,Year1,Week1,Mon,Assignment2,77.2,0.76,0.67,None,None,Low,No,7
+24136074,Student_0013,Module4,Programme2,Year1,Week4,Mon,Test1,43.1,0.92,0.58,Assessment Failure_007,Tutoring,High,No,6
+24947735,Student_0014,Module2,Programme1,Year3,Week10,Wed,,,0.95,0.93,None,None,Low,Yes,5
+23912756,Student_0015,Module3,Programme2,Year1,Week9,Thu,,,0.78,0.94,None,None,Low,Yes,6
+23175203,Student_0016,Module1,Programme1,Year2,Week11,Fri,,,0.81,0.5,Canvas Activity_007,Tutoring,Medium,No,5
+24239911,Student_0017,Module5,Programme3,Year1,Week7,Tue,Test2,64.4,0.59,1.0,Class Attendance_007,Email Reminder,Medium,No,7
+23278167,Student_0018,Module4,Programme2,Year1,Week12,Wed,,,0.77,0.88,None,None,Low,Yes,6
+23041090,Student_0019,Module2,Programme1,Year3,Week10,Mon,,,0.95,1.0,None,None,Low,Yes,5
+23329365,Student_0020,Module4,Programme2,Year1,Week7,Wed,,,0.91,0.54,Canvas Activity_007,Mentorship,Medium,Yes,6
+24113396,Student_0021,Module4,Programme2,Year1,Week7,Wed,Assignment1,83.5,0.9,0.53,Canvas Activity_007,Mentorship,Medium,No,6
+23787201,Student_0022,Module3,Programme2,Year1,Week8,Wed,,,0.83,0.75,None,None,Low,Yes,6
+24370455,Student_0023,Module1,Programme1,Year2,Week1,Wed,,,0.82,0.87,None,None,Low,Yes,5
+24766891,Student_0024,Module4,Programme2,Year1,Week10,Tue,Test1,73.3,0.72,1.0,None,None,Low,Yes,6
+23327069,Student_0025,Module3,Programme2,Year1,Week10,Thu,,,0.92,0.91,None,None,Low,Yes,6
+24825573,Student_0026,Module4,Programme2,Year1,Week8,Fri,Assignment2,34.9,0.88,0.74,Assessment Failure_007,Counselling,High,No,6
+24247617,Student_0027,Module3,Programme2,Year1,Week4,Wed,,,0.89,0.6,Canvas Activity_007,Mentorship,Medium,Yes,6
+23791743,Student_0028,Module5,Programme3,Year1,Week4,Wed,,,0.74,1.0,None,None,Low,No,7
+23103355,Student_0029,Module3,Programme2,Year1,Week4,Wed,,,0.5,0.61,Class Attendance_007,Email Reminder,Medium,No,6
+24284372,Student_0030,Module3,Programme2,Year1,Week6,Thu,,,0.98,1.0,None,None,Low,No,6
+24262752,Student_0031,Module5,Programme3,Year1,Week7,Mon,,,0.75,0.73,None,None,Low,Yes,7
+23184779,Student_0032,Module3,Programme2,Year1,Week6,Mon,Assignment2,51.0,0.69,1.0,Class Attendance_007,Mentorship,Medium,Yes,6
+24396025,Student_0033,Module1,Programme1,Year2,Week1,Tue,Test2,82.1,0.92,0.9,None,None,Low,Yes,5
+24470485,Student_0034,Module1,Programme1,Year2,Week12,Mon,,,0.76,0.76,None,None,Low,Yes,5
+23989436,Student_0035,Module4,Programme2,Year1,Week8,Wed,Assignment2,58.8,0.98,0.69,None,None,Low,Yes,6
+24307371,Student_0036,Module4,Programme2,Year1,Week10,Wed,Assignment1,60.0,0.91,0.72,None,None,Low,No,6
+23486232,Student_0037,Module4,Programme2,Year1,Week11,Wed,,,0.92,0.86,None,None,Low,Yes,6
+23917040,Student_0038,Module2,Programme1,Year3,Week7,Tue,Assignment2,48.5,0.62,0.79,Assessment Failure_007,Counselling,High,Yes,5
+24548762,Student_0039,Module1,Programme1,Year2,Week6,Wed,Test1,85.7,1.0,0.67,None,None,Low,Yes,5
+23156730,Student_0040,Module1,Programme1,Year2,Week6,Mon,,,0.86,0.75,None,None,Low,Yes,5
+24919486,Student_0041,Module3,Programme2,Year1,Week5,Thu,Assignment2,59.1,0.76,0.79,None,None,Low,No,6
+24433257,Student_0042,Module3,Programme2,Year1,Week6,Thu,,,0.84,0.4,Canvas Activity_007,Mentorship,Medium,Yes,6
+24198079,Student_0043,Module3,Programme2,Year1,Week12,Fri,,,0.55,0.86,Class Attendance_007,Tutoring,Medium,Yes,6
+23654811,Student_0044,Module3,Programme2,Year1,Week9,Mon,,,0.88,0.6,None,None,Low,Yes,6
+23527035,Student_0045,Module5,Programme3,Year1,Week10,Wed,Test2,39.8,0.67,0.57,Assessment Failure_007,Escalation,High,Yes,7
+23648143,Student_0046,Module2,Programme1,Year3,Week9,Thu,,,0.62,0.48,Canvas Activity_007,Email Reminder,Medium,Yes,5
+24500942,Student_0047,Module3,Programme2,Year1,Week10,Mon,,,0.59,0.46,Canvas Activity_007,Escalation,High,Yes,6
+23065725,Student_0048,Module4,Programme2,Year1,Week8,Thu,,,0.99,0.54,Canvas Activity_007,Tutoring,Medium,Yes,6
+24178557,Student_0049,Module3,Programme2,Year1,Week10,Wed,Assignment2,84.0,0.73,0.65,None,None,Low,Yes,6
+23084654,Student_0050,Module4,Programme2,Year1,Week9,Thu,,,1.0,1.0,None,None,Low,Yes,6
+23953277,Student_0051,Module5,Programme3,Year1,Week10,Fri,,,0.74,0.69,None,None,Low,Yes,7
+24954354,Student_0052,Module5,Programme3,Year1,Week8,Fri,,,0.56,0.81,Class Attendance_007,Email Reminder,Medium,Yes,7
+23591723,Student_0053,Module1,Programme1,Year2,Week8,Thu,,,0.65,0.85,Class Attendance_007,Email Reminder,Medium,No,5
+23319030,Student_0054,Module5,Programme3,Year1,Week1,Mon,,,1.0,0.8,None,None,Low,No,7
+24377523,Student_0055,Module3,Programme2,Year1,Week10,Mon,,,0.8,0.77,None,None,Low,Yes,6
+23555839,Student_0056,Module2,Programme1,Year3,Week11,Mon,Assignment1,85.9,0.74,0.56,Canvas Activity_007,Email Reminder,Medium,Yes,5
+24951224,Student_0057,Module3,Programme2,Year1,Week5,Thu,,,0.84,1.0,None,None,Low,Yes,6
+23273538,Student_0058,Module5,Programme3,Year1,Week4,Mon,Test2,69.3,0.9,1.0,None,None,Low,No,7
+23331236,Student_0059,Module3,Programme2,Year1,Week2,Wed,Test1,58.9,0.99,0.48,Canvas Activity_007,Tutoring,High,No,6
+23528178,Student_0060,Module2,Programme1,Year3,Week8,Fri,Test1,73.5,1.0,0.6,Canvas Activity_007,Tutoring,Medium,No,5
+23565894,Student_0061,Module4,Programme2,Year1,Week3,Wed,,,0.77,0.73,None,None,Low,Yes,6
+23489492,Student_0062,Module2,Programme1,Year3,Week4,Mon,Assignment1,35.9,0.62,0.61,Assessment Failure_007,Counselling,High,No,5
+24305416,Student_0063,Module1,Programme1,Year2,Week12,Wed,,,0.76,0.87,None,None,Low,Yes,5
+23473254,Student_0064,Module1,Programme1,Year2,Week7,Mon,,,0.86,0.65,None,None,Low,Yes,5
+23349457,Student_0065,Module1,Programme1,Year2,Week10,Thu,Test2,61.5,0.68,1.0,Class Attendance_007,Tutoring,Medium,Yes,5
+23665987,Student_0066,Module1,Programme1,Year2,Week9,Wed,Assignment2,76.0,0.68,0.99,Class Attendance_007,Tutoring,Medium,Yes,5
+24319512,Student_0067,Module1,Programme1,Year2,Week2,Thu,Assignment1,43.2,0.87,0.82,Assessment Failure_007,Escalation,High,No,5
+24288507,Student_0068,Module4,Programme2,Year1,Week3,Thu,,,0.81,0.96,None,None,Low,No,6
+24288205,Student_0069,Module1,Programme1,Year2,Week4,Tue,,,0.82,0.98,None,None,Low,No,5
+24253617,Student_0070,Module2,Programme1,Year3,Week10,Mon,,,0.71,0.68,None,None,Low,Yes,5
+23698361,Student_0071,Module5,Programme3,Year1,Week1,Fri,Assignment1,62.6,0.79,0.63,None,None,Low,Yes,7
+24780488,Student_0072,Module3,Programme2,Year1,Week7,Mon,,,0.68,0.79,Class Attendance_007,Tutoring,Medium,No,6
+24465689,Student_0073,Module4,Programme2,Year1,Week2,Fri,,,0.95,0.94,None,None,Low,Yes,6
+23068148,Student_0074,Module1,Programme1,Year2,Week5,Mon,,,0.98,0.81,None,None,Low,Yes,5
+24825665,Student_0075,Module1,Programme1,Year2,Week1,Thu,,,0.54,0.5,Canvas Activity_007,Tutoring,High,No,5
+23648531,Student_0076,Module1,Programme1,Year2,Week3,Wed,Test1,44.0,0.68,0.64,Assessment Failure_007,Counselling,High,No,5
+24300571,Student_0077,Module1,Programme1,Year2,Week12,Wed,Assignment1,61.9,0.6,0.77,Class Attendance_007,Mentorship,Medium,Yes,5
+23906606,Student_0078,Module2,Programme1,Year3,Week2,Tue,Assignment1,52.4,0.72,0.77,None,None,Low,Yes,5
+23678843,Student_0079,Module1,Programme1,Year2,Week1,Fri,Test2,55.8,0.81,1.0,None,None,Low,No,5
+24959366,Student_0080,Module1,Programme1,Year2,Week7,Fri,Test1,55.3,0.6,0.53,Canvas Activity_007,Mentorship,Medium,No,5
+23572843,Student_0081,Module1,Programme1,Year2,Week5,Fri,Assignment1,44.4,0.68,0.87,Assessment Failure_007,Counselling,High,No,5
+23256508,Student_0082,Module3,Programme2,Year1,Week1,Thu,Assignment2,26.8,0.67,1.0,Assessment Failure_007,Escalation,High,No,6
+23803591,Student_0083,Module2,Programme1,Year3,Week6,Fri,,,0.85,1.0,None,None,Low,No,5
+23896942,Student_0084,Module3,Programme2,Year1,Week5,Wed,,,0.83,0.71,None,None,Low,Yes,6
+23106530,Student_0085,Module3,Programme2,Year1,Week3,Thu,,,0.71,0.87,None,None,Low,No,6
+23604365,Student_0086,Module4,Programme2,Year1,Week12,Mon,,,0.85,0.88,None,None,Low,Yes,6
+24870928,Student_0087,Module1,Programme1,Year2,Week7,Fri,Assignment1,96.2,0.74,0.82,None,None,Low,No,5
+23460337,Student_0088,Module4,Programme2,Year1,Week11,Fri,,,0.78,0.76,None,None,Low,Yes,6
+24773415,Student_0089,Module4,Programme2,Year1,Week10,Mon,Assignment1,91.6,1.0,0.86,None,None,Low,No,6
+23805889,Student_0090,Module1,Programme1,Year2,Week9,Fri,,,1.0,0.32,Canvas Activity_007,Mentorship,Medium,Yes,5
+24508349,Student_0091,Module5,Programme3,Year1,Week9,Mon,Assignment2,83.0,0.63,0.9,Class Attendance_007,Email Reminder,Medium,No,7
+23208261,Student_0092,Module5,Programme3,Year1,Week9,Thu,,,0.94,0.8,None,None,Low,Yes,7
+24813045,Student_0093,Module1,Programme1,Year2,Week2,Wed,Test1,50.4,0.94,0.74,None,None,Low,Yes,5
+24389673,Student_0094,Module2,Programme1,Year3,Week3,Mon,Assignment1,12.7,0.65,1.0,Assessment Failure_007,Tutoring,High,No,5
+24363715,Student_0095,Module4,Programme2,Year1,Week7,Tue,,,0.94,0.66,None,None,Low,Yes,6
+24220405,Student_0096,Module4,Programme2,Year1,Week5,Mon,Assignment1,89.7,1.0,0.71,None,None,Low,Yes,6
+23271836,Student_0097,Module1,Programme1,Year2,Week2,Fri,,,0.65,1.0,Class Attendance_007,Escalation,High,No,5
+24487550,Student_0098,Module2,Programme1,Year3,Week3,Thu,,,0.68,0.63,Class Attendance_007,Tutoring,High,No,5
+23989913,Student_0099,Module3,Programme2,Year1,Week10,Thu,,,0.97,0.68,None,None,Low,Yes,6
+23202283,Student_0100,Module3,Programme2,Year1,Week6,Mon,,,0.86,0.75,None,None,Low,No,6
+23196769,Student_0101,Module4,Programme2,Year1,Week7,Wed,,,0.9,0.93,None,None,Low,No,6
+23561353,Student_0102,Module3,Programme2,Year1,Week9,Tue,Assignment2,30.6,0.87,0.82,Assessment Failure_007,Counselling,High,No,6
+24271741,Student_0103,Module3,Programme2,Year1,Week1,Thu,,,0.88,0.55,Canvas Activity_007,Tutoring,High,No,6
+24672163,Student_0104,Module4,Programme2,Year1,Week11,Fri,,,0.62,0.68,Class Attendance_007,Mentorship,Medium,Yes,6
+24046797,Student_0105,Module1,Programme1,Year2,Week7,Fri,,,0.98,0.67,None,None,Low,No,5
+23950110,Student_0106,Module2,Programme1,Year3,Week8,Wed,Test1,70.3,1.0,0.77,None,None,Low,Yes,5
+24584398,Student_0107,Module4,Programme2,Year1,Week12,Thu,,,0.79,0.86,None,None,Low,Yes,6
+23487879,Student_0108,Module5,Programme3,Year1,Week3,Mon,,,0.81,0.86,None,None,Low,Yes,7
+23564685,Student_0109,Module3,Programme2,Year1,Week4,Fri,,,0.59,0.46,Canvas Activity_007,Tutoring,High,No,6
+23782038,Student_0110,Module3,Programme2,Year1,Week10,Wed,Test1,79.5,0.9,0.97,None,None,Low,Yes,6
+24402107,Student_0111,Module1,Programme1,Year2,Week6,Thu,Test1,69.5,0.91,0.83,None,None,Low,Yes,5
+24311736,Student_0112,Module3,Programme2,Year1,Week10,Thu,Test1,66.0,0.81,1.0,None,None,Low,Yes,6
+24007293,Student_0113,Module3,Programme2,Year1,Week7,Thu,,,0.99,0.86,None,None,Low,No,6
+23579879,Student_0114,Module2,Programme1,Year3,Week4,Thu,,,0.77,0.98,None,None,Low,Yes,5
+24269460,Student_0115,Module2,Programme1,Year3,Week8,Thu,,,0.9,0.86,None,None,Low,Yes,5
+23023247,Student_0116,Module3,Programme2,Year1,Week5,Fri,Assignment1,62.7,0.67,1.0,Class Attendance_007,Email Reminder,Medium,No,6
+24072876,Student_0117,Module1,Programme1,Year2,Week1,Wed,Test2,73.9,0.82,0.87,None,None,Low,No,5
+24515857,Student_0118,Module2,Programme1,Year3,Week4,Thu,,,0.79,0.76,None,None,Low,No,5
+23607086,Student_0119,Module2,Programme1,Year3,Week3,Tue,,,0.85,1.0,None,None,Low,Yes,5
+23533556,Student_0120,Module2,Programme1,Year3,Week9,Tue,,,0.76,0.94,None,None,Low,Yes,5
+24397527,Student_0121,Module1,Programme1,Year2,Week8,Wed,Test2,52.8,0.8,0.88,None,None,Low,Yes,5
+24322905,Student_0122,Module5,Programme3,Year1,Week1,Mon,,,0.94,0.55,Canvas Activity_007,Tutoring,High,No,7
+24767640,Student_0123,Module3,Programme2,Year1,Week11,Mon,Test2,59.0,0.75,0.55,Canvas Activity_007,Tutoring,Medium,No,6
+23742139,Student_0124,Module4,Programme2,Year1,Week6,Mon,,,0.58,0.83,Class Attendance_007,Email Reminder,Medium,Yes,6
+23432315,Student_0125,Module4,Programme2,Year1,Week9,Tue,Assignment2,69.0,1.0,0.81,None,None,Low,No,6
+23926075,Student_0126,Module3,Programme2,Year1,Week7,Mon,,,1.0,0.67,None,None,Low,Yes,6
+23516588,Student_0127,Module1,Programme1,Year2,Week4,Fri,Test1,56.2,0.63,0.81,Class Attendance_007,Email Reminder,Medium,No,5
+24285160,Student_0128,Module3,Programme2,Year1,Week1,Thu,,,0.92,1.0,None,None,Low,Yes,6
+24610908,Student_0129,Module3,Programme2,Year1,Week12,Tue,,,0.74,0.91,None,None,Low,Yes,6
+24886222,Student_0130,Module4,Programme2,Year1,Week2,Wed,,,0.86,0.57,Canvas Activity_007,Tutoring,High,No,6
+23978732,Student_0131,Module3,Programme2,Year1,Week12,Wed,Assignment1,92.9,0.86,0.76,None,None,Low,No,6
+24425472,Student_0132,Module1,Programme1,Year2,Week5,Thu,Assignment1,60.2,0.78,0.64,None,None,Low,Yes,5
+23048984,Student_0133,Module2,Programme1,Year3,Week12,Tue,Test2,67.9,0.7,0.71,None,None,Low,Yes,5
+23302918,Student_0134,Module3,Programme2,Year1,Week11,Mon,,,0.72,0.71,None,None,Low,Yes,6
+23264712,Student_0135,Module4,Programme2,Year1,Week5,Mon,Test1,47.4,0.68,0.69,Assessment Failure_007,Tutoring,High,Yes,6
+24168727,Student_0136,Module3,Programme2,Year1,Week8,Fri,,,0.7,0.55,Canvas Activity_007,Mentorship,Medium,Yes,6
+24504384,Student_0137,Module3,Programme2,Year1,Week6,Fri,,,0.81,0.76,None,None,Low,Yes,6
+23133767,Student_0138,Module5,Programme3,Year1,Week8,Mon,,,0.71,0.68,None,None,Low,Yes,7
+23648663,Student_0139,Module4,Programme2,Year1,Week2,Wed,Assignment1,64.7,0.92,0.25,Canvas Activity_007,Escalation,High,No,6
+24752126,Student_0140,Module2,Programme1,Year3,Week3,Wed,,,1.0,1.0,None,None,Low,Yes,5
+23136330,Student_0141,Module1,Programme1,Year2,Week6,Fri,Test2,47.9,0.73,0.98,Assessment Failure_007,Tutoring,High,Yes,5
+23480754,Student_0142,Module1,Programme1,Year2,Week12,Thu,,,0.86,0.71,None,None,Low,Yes,5
+24350224,Student_0143,Module2,Programme1,Year3,Week10,Mon,,,0.89,0.78,None,None,Low,Yes,5
+24737095,Student_0144,Module1,Programme1,Year2,Week3,Fri,Test1,43.9,0.89,0.57,Assessment Failure_007,Tutoring,High,Yes,5
+23013986,Student_0145,Module1,Programme1,Year2,Week6,Fri,Test1,55.9,0.83,1.0,None,None,Low,Yes,5
+23586146,Student_0146,Module2,Programme1,Year3,Week6,Mon,,,0.93,1.0,None,None,Low,No,5
+24177888,Student_0147,Module1,Programme1,Year2,Week2,Mon,,,0.89,0.81,None,None,Low,No,5
+23012666,Student_0148,Module5,Programme3,Year1,Week7,Wed,Test2,51.9,0.63,0.96,Class Attendance_007,Tutoring,Medium,No,7
+24349380,Student_0149,Module1,Programme1,Year2,Week12,Thu,,,0.95,0.81,None,None,Low,Yes,5
+23134633,Student_0150,Module3,Programme2,Year1,Week2,Thu,Test1,86.5,0.95,0.54,Canvas Activity_007,Counselling,High,No,6
+23288998,Student_0151,Module3,Programme2,Year1,Week6,Mon,Test1,75.7,0.71,0.71,None,None,Low,Yes,6
+23850937,Student_0152,Module5,Programme3,Year1,Week1,Tue,,,0.83,0.8,None,None,Low,Yes,7
+23628776,Student_0153,Module1,Programme1,Year2,Week3,Fri,,,0.92,0.7,None,None,Low,No,5
+24756187,Student_0154,Module3,Programme2,Year1,Week2,Fri,,,0.79,0.74,None,None,Low,Yes,6
+24333382,Student_0155,Module5,Programme3,Year1,Week7,Mon,Assignment1,88.1,0.98,0.76,None,None,Low,Yes,7
+24843400,Student_0156,Module5,Programme3,Year1,Week4,Tue,,,1.0,0.77,None,None,Low,Yes,7
+24079111,Student_0157,Module4,Programme2,Year1,Week8,Wed,Test2,58.8,0.7,0.79,None,None,Low,Yes,6
+23996107,Student_0158,Module2,Programme1,Year3,Week6,Mon,Test2,63.5,0.61,0.59,Canvas Activity_007,Tutoring,Medium,No,5
+24424289,Student_0159,Module1,Programme1,Year2,Week12,Mon,,,0.87,0.65,None,None,Low,Yes,5
+23838688,Student_0160,Module4,Programme2,Year1,Week10,Fri,Assignment1,82.3,0.93,0.55,Canvas Activity_007,Mentorship,Medium,Yes,6
+23351279,Student_0161,Module5,Programme3,Year1,Week4,Mon,,,0.79,0.96,None,None,Low,Yes,7
+23913910,Student_0162,Module3,Programme2,Year1,Week5,Mon,,,1.0,0.4,Canvas Activity_007,Tutoring,Medium,Yes,6
+24870230,Student_0163,Module3,Programme2,Year1,Week9,Mon,Test1,80.2,0.62,0.99,Class Attendance_007,Tutoring,Medium,Yes,6
+24650237,Student_0164,Module2,Programme1,Year3,Week7,Fri,Test1,61.2,0.92,1.0,None,None,Low,No,5
+24696548,Student_0165,Module4,Programme2,Year1,Week10,Wed,Assignment2,86.8,0.73,0.73,None,None,Low,Yes,6
+23489570,Student_0166,Module1,Programme1,Year2,Week9,Wed,Test1,49.9,1.0,0.31,Assessment Failure_007,Tutoring,High,Yes,5
+24505127,Student_0167,Module2,Programme1,Year3,Week7,Mon,,,1.0,0.71,None,None,Low,Yes,5
+24321685,Student_0168,Module3,Programme2,Year1,Week12,Fri,,,0.71,0.77,None,None,Low,Yes,6
+23024538,Student_0169,Module3,Programme2,Year1,Week1,Wed,Test2,62.1,0.74,0.6,Canvas Activity_007,Counselling,High,No,6
+23894498,Student_0170,Module2,Programme1,Year3,Week12,Wed,Test1,35.4,0.95,0.69,Assessment Failure_007,Escalation,High,Yes,5
+23201664,Student_0171,Module1,Programme1,Year2,Week8,Wed,,,0.76,1.0,None,None,Low,Yes,5
+23491234,Student_0172,Module4,Programme2,Year1,Week4,Fri,,,0.81,0.9,None,None,Low,No,6
+24948260,Student_0173,Module2,Programme1,Year3,Week3,Fri,Assignment1,74.5,0.82,0.61,None,None,Low,No,5
+23139182,Student_0174,Module3,Programme2,Year1,Week7,Mon,Test1,74.9,0.53,0.49,Canvas Activity_007,Escalation,High,No,6
+24521101,Student_0175,Module1,Programme1,Year2,Week12,Thu,,,0.82,0.72,None,None,Low,Yes,5
+24206914,Student_0176,Module3,Programme2,Year1,Week3,Wed,Test2,86.0,0.72,0.74,None,None,Low,No,6
+23184064,Student_0177,Module3,Programme2,Year1,Week8,Thu,Test1,100.0,0.75,0.87,None,None,Low,Yes,6
+23214020,Student_0178,Module1,Programme1,Year2,Week6,Fri,,,1.0,0.68,None,None,Low,Yes,5
+24039577,Student_0179,Module2,Programme1,Year3,Week5,Fri,,,0.63,0.87,Class Attendance_007,Tutoring,Medium,No,5
+23623094,Student_0180,Module1,Programme1,Year2,Week4,Fri,,,0.94,1.0,None,None,Low,No,5
+24972990,Student_0181,Module1,Programme1,Year2,Week8,Thu,,,0.78,0.93,None,None,Low,Yes,5
+23897421,Student_0182,Module5,Programme3,Year1,Week8,Fri,,,0.78,0.77,None,None,Low,Yes,7
+23615270,Student_0183,Module2,Programme1,Year3,Week12,Mon,Test2,65.2,0.94,0.75,None,None,Low,Yes,5
+24694490,Student_0184,Module4,Programme2,Year1,Week1,Fri,Test1,86.2,0.87,0.72,None,None,Low,Yes,6
+24167752,Student_0185,Module2,Programme1,Year3,Week9,Tue,Test1,68.5,0.91,0.99,None,None,Low,No,5
+23917710,Student_0186,Module4,Programme2,Year1,Week5,Thu,Test2,53.0,0.97,0.67,None,None,Low,No,6
+24266702,Student_0187,Module4,Programme2,Year1,Week4,Tue,,,0.77,0.79,None,None,Low,No,6
+23218969,Student_0188,Module3,Programme2,Year1,Week6,Fri,,,0.73,0.79,None,None,Low,Yes,6
+23122409,Student_0189,Module3,Programme2,Year1,Week6,Mon,,,0.66,0.69,Class Attendance_007,Mentorship,Medium,No,6
+24596283,Student_0190,Module3,Programme2,Year1,Week2,Wed,,,0.7,0.53,Canvas Activity_007,Tutoring,High,No,6
+23253618,Student_0191,Module2,Programme1,Year3,Week8,Fri,Assignment2,51.8,1.0,0.84,None,None,Low,Yes,5
+23769598,Student_0192,Module5,Programme3,Year1,Week7,Mon,Test2,35.1,1.0,0.77,Assessment Failure_007,Escalation,High,No,7
+24098591,Student_0193,Module4,Programme2,Year1,Week1,Thu,,,0.62,0.87,Class Attendance_007,Tutoring,High,No,6
+23772838,Student_0194,Module5,Programme3,Year1,Week5,Tue,,,0.62,0.68,Class Attendance_007,Tutoring,Medium,Yes,7
+24170672,Student_0195,Module1,Programme1,Year2,Week12,Tue,,,0.89,1.0,None,None,Low,Yes,5
+24679923,Student_0196,Module4,Programme2,Year1,Week6,Tue,,,0.9,0.62,None,None,Low,Yes,6
+24233916,Student_0197,Module5,Programme3,Year1,Week4,Thu,,,0.9,1.0,None,None,Low,Yes,7
+24159263,Student_0198,Module1,Programme1,Year2,Week2,Mon,,,0.78,0.47,Canvas Activity_007,Escalation,High,No,5
+23874371,Student_0199,Module1,Programme1,Year2,Week4,Thu,Test1,68.0,0.8,0.86,None,None,Low,Yes,5
+24459933,Student_0200,Module4,Programme2,Year1,Week1,Tue,,,0.87,0.87,None,None,Low,No,6
+23735716,Student_0201,Module3,Programme2,Year1,Week7,Fri,,,0.83,0.64,None,None,Low,Yes,6
+24154454,Student_0202,Module4,Programme2,Year1,Week2,Wed,Assignment1,71.4,0.49,0.86,Class Attendance_007,Tutoring,High,No,6
+24775846,Student_0203,Module1,Programme1,Year2,Week2,Thu,,,0.79,1.0,None,None,Low,Yes,5
+23973548,Student_0204,Module4,Programme2,Year1,Week9,Thu,Test1,48.6,0.69,0.38,Assessment Failure_007,Tutoring,High,Yes,6
+24246862,Student_0205,Module2,Programme1,Year3,Week5,Mon,,,0.85,0.87,None,None,Low,Yes,5
+23773290,Student_0206,Module1,Programme1,Year2,Week2,Mon,Assignment2,73.0,1.0,0.33,Canvas Activity_007,Counselling,High,No,5
+24823260,Student_0207,Module1,Programme1,Year2,Week11,Thu,,,0.88,0.61,None,None,Low,Yes,5
+24213475,Student_0208,Module4,Programme2,Year1,Week9,Tue,Test1,58.1,0.77,1.0,None,None,Low,Yes,6
+24373343,Student_0209,Module4,Programme2,Year1,Week9,Wed,,,0.96,0.68,None,None,Low,Yes,6
+23999238,Student_0210,Module3,Programme2,Year1,Week1,Mon,Test2,51.1,0.89,0.57,Canvas Activity_007,Counselling,High,No,6
+23861882,Student_0211,Module3,Programme2,Year1,Week11,Tue,Assignment2,55.8,0.88,0.74,None,None,Low,Yes,6
+24928434,Student_0212,Module5,Programme3,Year1,Week3,Fri,,,0.91,1.0,None,None,Low,No,7
+23379989,Student_0213,Module3,Programme2,Year1,Week4,Mon,,,1.0,0.45,Canvas Activity_007,Email Reminder,Medium,No,6
+23415515,Student_0214,Module4,Programme2,Year1,Week7,Tue,Assignment2,67.4,0.65,0.59,Canvas Activity_007,Email Reminder,Medium,Yes,6
+23043585,Student_0215,Module3,Programme2,Year1,Week10,Tue,Assignment2,48.1,0.89,1.0,Assessment Failure_007,Counselling,High,No,6
+24419945,Student_0216,Module3,Programme2,Year1,Week4,Wed,,,0.68,1.0,Class Attendance_007,Tutoring,Medium,No,6
+23064044,Student_0217,Module3,Programme2,Year1,Week2,Wed,,,0.9,0.76,None,None,Low,No,6
+23960061,Student_0218,Module2,Programme1,Year3,Week7,Fri,,,0.68,0.56,Canvas Activity_007,Mentorship,Medium,Yes,5
+23442296,Student_0219,Module4,Programme2,Year1,Week6,Tue,Assignment2,77.4,0.76,1.0,None,None,Low,No,6
+23109556,Student_0220,Module3,Programme2,Year1,Week3,Tue,,,0.78,1.0,None,None,Low,No,6
+24575557,Student_0221,Module2,Programme1,Year3,Week6,Wed,Test1,69.1,0.97,0.9,None,None,Low,Yes,5
+24930267,Student_0222,Module5,Programme3,Year1,Week11,Mon,Assignment1,54.3,0.96,0.63,None,None,Low,Yes,7
+23767595,Student_0223,Module3,Programme2,Year1,Week6,Mon,,,0.63,0.77,Class Attendance_007,Mentorship,Medium,Yes,6
+23200235,Student_0224,Module3,Programme2,Year1,Week12,Thu,,,0.83,0.75,None,None,Low,Yes,6
+23025939,Student_0225,Module5,Programme3,Year1,Week5,Wed,,,0.71,0.84,None,None,Low,Yes,7
+24201482,Student_0226,Module4,Programme2,Year1,Week4,Thu,Test2,27.7,0.63,1.0,Assessment Failure_007,Counselling,High,No,6
+23542335,Student_0227,Module1,Programme1,Year2,Week10,Wed,Assignment2,54.2,0.79,0.94,None,None,Low,Yes,5
+24336825,Student_0228,Module5,Programme3,Year1,Week12,Fri,Test2,93.0,0.77,0.59,Canvas Activity_007,Mentorship,Medium,Yes,7
+23075766,Student_0229,Module4,Programme2,Year1,Week1,Tue,,,1.0,1.0,None,None,Low,Yes,6
+23408923,Student_0230,Module2,Programme1,Year3,Week10,Fri,Test2,51.1,0.88,0.84,None,None,Low,Yes,5
+24463768,Student_0231,Module1,Programme1,Year2,Week6,Wed,Test2,53.9,0.61,0.9,Class Attendance_007,Tutoring,Medium,No,5
+23568550,Student_0232,Module4,Programme2,Year1,Week2,Tue,Test1,40.1,0.74,1.0,Assessment Failure_007,Tutoring,High,Yes,6
+23387261,Student_0233,Module4,Programme2,Year1,Week3,Mon,,,0.97,0.58,Canvas Activity_007,Escalation,High,Yes,6
+23810208,Student_0234,Module3,Programme2,Year1,Week8,Mon,Test1,57.8,1.0,0.77,None,None,Low,Yes,6
+23685440,Student_0235,Module5,Programme3,Year1,Week10,Thu,,,0.58,0.68,Class Attendance_007,Tutoring,Medium,Yes,7
+24701240,Student_0236,Module4,Programme2,Year1,Week6,Wed,Test1,61.1,0.54,0.5,Canvas Activity_007,Tutoring,High,No,6
+23984346,Student_0237,Module1,Programme1,Year2,Week3,Wed,,,1.0,0.84,None,None,Low,No,5
+24503165,Student_0238,Module2,Programme1,Year3,Week7,Mon,Test1,62.8,0.88,1.0,None,None,Low,Yes,5
+23137848,Student_0239,Module2,Programme1,Year3,Week4,Fri,,,0.69,0.45,Canvas Activity_007,Email Reminder,Medium,Yes,5
+23617075,Student_0240,Module4,Programme2,Year1,Week9,Tue,,,0.9,0.77,None,None,Low,Yes,6
+23127948,Student_0241,Module1,Programme1,Year2,Week5,Fri,Assignment2,51.7,0.42,0.9,Class Attendance_007,Mentorship,Medium,No,5
+24627880,Student_0242,Module3,Programme2,Year1,Week3,Fri,,,0.82,0.8,None,None,Low,Yes,6
+23402690,Student_0243,Module4,Programme2,Year1,Week2,Mon,,,0.87,0.76,None,None,Low,Yes,6
+23499046,Student_0244,Module5,Programme3,Year1,Week11,Mon,,,0.96,0.55,Canvas Activity_007,Email Reminder,Medium,Yes,7
+23451269,Student_0245,Module2,Programme1,Year3,Week2,Mon,,,0.67,0.82,Class Attendance_007,Counselling,High,No,5
+23021959,Student_0246,Module4,Programme2,Year1,Week3,Thu,Assignment1,63.8,0.83,0.64,None,None,Low,Yes,6
+24709466,Student_0247,Module1,Programme1,Year2,Week2,Fri,Assignment1,68.1,0.68,0.39,Canvas Activity_007,Counselling,High,No,5
+24798792,Student_0248,Module4,Programme2,Year1,Week4,Wed,Test1,44.1,0.86,1.0,Assessment Failure_007,Escalation,High,No,6
+24954109,Student_0249,Module1,Programme1,Year2,Week2,Tue,Test2,62.4,0.69,0.95,Class Attendance_007,Counselling,High,No,5
+24838756,Student_0250,Module3,Programme2,Year1,Week10,Thu,Assignment1,35.6,0.76,0.79,Assessment Failure_007,Tutoring,High,Yes,6
+23228576,Student_0251,Module4,Programme2,Year1,Week9,Wed,Assignment2,30.2,0.67,0.82,Assessment Failure_007,Tutoring,High,Yes,6
+24015602,Student_0252,Module1,Programme1,Year2,Week2,Fri,Assignment1,68.6,0.92,0.97,None,None,Low,Yes,5
+24586409,Student_0253,Module2,Programme1,Year3,Week9,Mon,,,0.95,0.82,None,None,Low,Yes,5
+23914091,Student_0254,Module4,Programme2,Year1,Week6,Fri,Assignment2,65.6,0.78,0.94,None,None,Low,Yes,6
+23165838,Student_0255,Module4,Programme2,Year1,Week1,Tue,Assignment2,61.7,0.83,0.73,None,None,Low,Yes,6
+24384250,Student_0256,Module4,Programme2,Year1,Week4,Thu,,,0.6,1.0,Class Attendance_007,Email Reminder,Medium,Yes,6
+24928565,Student_0257,Module4,Programme2,Year1,Week1,Thu,Test1,61.2,0.78,0.84,None,None,Low,No,6
+23061087,Student_0258,Module3,Programme2,Year1,Week6,Tue,Assignment1,39.8,0.81,0.81,Assessment Failure_007,Tutoring,High,No,6
+24013343,Student_0259,Module2,Programme1,Year3,Week4,Wed,Test1,87.0,1.0,0.55,Canvas Activity_007,Mentorship,Medium,No,5
+24641704,Student_0260,Module2,Programme1,Year3,Week3,Wed,,,0.65,0.83,Class Attendance_007,Tutoring,High,No,5
+23118451,Student_0261,Module1,Programme1,Year2,Week3,Thu,,,1.0,0.63,None,None,Low,Yes,5
+24496176,Student_0262,Module5,Programme3,Year1,Week9,Thu,Test1,43.2,0.97,0.67,Assessment Failure_007,Tutoring,High,Yes,7
+24886013,Student_0263,Module3,Programme2,Year1,Week6,Mon,,,0.86,0.63,None,None,Low,Yes,6
+23439792,Student_0264,Module3,Programme2,Year1,Week9,Wed,,,1.0,0.59,Canvas Activity_007,Tutoring,Medium,Yes,6
+23039353,Student_0265,Module3,Programme2,Year1,Week5,Tue,,,0.88,1.0,None,None,Low,Yes,6
+23193075,Student_0266,Module5,Programme3,Year1,Week2,Wed,,,0.88,1.0,None,None,Low,No,7
+24262859,Student_0267,Module1,Programme1,Year2,Week8,Mon,,,0.81,1.0,None,None,Low,Yes,5
+24363453,Student_0268,Module3,Programme2,Year1,Week5,Thu,Test1,71.3,1.0,0.56,Canvas Activity_007,Tutoring,Medium,Yes,6
+23065318,Student_0269,Module3,Programme2,Year1,Week2,Thu,Test1,44.3,0.98,0.79,Assessment Failure_007,Escalation,High,Yes,6
+23765313,Student_0270,Module4,Programme2,Year1,Week4,Mon,,,0.73,0.55,Canvas Activity_007,Email Reminder,Medium,No,6
+24531266,Student_0271,Module1,Programme1,Year2,Week9,Tue,,,0.62,0.65,Class Attendance_007,Email Reminder,Medium,No,5
+23416880,Student_0272,Module5,Programme3,Year1,Week4,Thu,,,0.79,0.61,None,None,Low,Yes,7
+23591460,Student_0273,Module5,Programme3,Year1,Week12,Fri,,,0.7,1.0,Class Attendance_007,Email Reminder,Medium,Yes,7
+23740976,Student_0274,Module3,Programme2,Year1,Week12,Thu,,,0.81,0.71,None,None,Low,Yes,6
+23781239,Student_0275,Module4,Programme2,Year1,Week12,Fri,Test2,65.7,1.0,0.97,None,None,Low,Yes,6
+24141840,Student_0276,Module5,Programme3,Year1,Week4,Mon,,,0.75,0.89,None,None,Low,No,7
+23770746,Student_0277,Module4,Programme2,Year1,Week2,Mon,,,0.81,1.0,None,None,Low,No,6
+23813168,Student_0278,Module1,Programme1,Year2,Week12,Thu,,,0.83,0.51,Canvas Activity_007,Email Reminder,Medium,Yes,5
+23225281,Student_0279,Module3,Programme2,Year1,Week6,Wed,,,0.95,1.0,None,None,Low,Yes,6
+24020545,Student_0280,Module4,Programme2,Year1,Week11,Fri,,,0.48,0.99,Class Attendance_007,Mentorship,Medium,Yes,6
+24685723,Student_0281,Module3,Programme2,Year1,Week2,Tue,Assignment1,67.5,0.73,0.6,None,None,Low,Yes,6
+23898613,Student_0282,Module4,Programme2,Year1,Week12,Thu,,,0.85,0.96,None,None,Low,Yes,6
+24442646,Student_0283,Module5,Programme3,Year1,Week7,Tue,Test2,70.1,1.0,0.84,None,None,Low,Yes,7
+24400804,Student_0284,Module5,Programme3,Year1,Week3,Thu,,,0.75,0.74,None,None,Low,Yes,7
+24480415,Student_0285,Module3,Programme2,Year1,Week3,Wed,,,0.54,0.63,Class Attendance_007,Tutoring,High,No,6
+23269536,Student_0286,Module1,Programme1,Year2,Week5,Wed,Test1,74.6,0.91,0.65,None,None,Low,Yes,5
+23317824,Student_0287,Module5,Programme3,Year1,Week3,Wed,,,0.72,1.0,None,None,Low,No,7
+24306002,Student_0288,Module4,Programme2,Year1,Week2,Wed,Test1,49.7,0.64,0.78,Assessment Failure_007,Counselling,High,No,6
+23177789,Student_0289,Module1,Programme1,Year2,Week10,Mon,Test2,70.2,0.73,0.92,None,None,Low,No,5
+24561729,Student_0290,Module5,Programme3,Year1,Week9,Mon,Test2,99.8,0.79,0.64,None,None,Low,Yes,7
+23742452,Student_0291,Module5,Programme3,Year1,Week2,Fri,,,0.73,0.64,None,None,Low,Yes,7
+23837291,Student_0292,Module3,Programme2,Year1,Week11,Tue,,,0.49,0.97,Class Attendance_007,Email Reminder,Medium,Yes,6
+23125657,Student_0293,Module3,Programme2,Year1,Week2,Thu,,,0.95,0.54,Canvas Activity_007,Counselling,High,No,6
+24283743,Student_0294,Module3,Programme2,Year1,Week8,Thu,Test1,97.0,1.0,0.71,None,None,Low,Yes,6
+23681669,Student_0295,Module1,Programme1,Year2,Week9,Mon,,,0.92,0.79,None,None,Low,Yes,5
+24529247,Student_0296,Module2,Programme1,Year3,Week7,Thu,,,0.65,0.8,Class Attendance_007,Email Reminder,Medium,Yes,5
+24767670,Student_0297,Module4,Programme2,Year1,Week3,Mon,Test2,32.7,0.79,0.75,Assessment Failure_007,Counselling,High,Yes,6
+24119043,Student_0298,Module1,Programme1,Year2,Week9,Fri,Assignment2,16.9,0.82,0.85,Assessment Failure_007,Counselling,High,No,5
+24232310,Student_0299,Module2,Programme1,Year3,Week3,Tue,Assignment1,67.4,0.91,0.9,None,None,Low,Yes,5
+24671370,Student_0300,Module3,Programme2,Year1,Week5,Fri,,,0.92,0.91,None,None,Low,No,6
+23109751,Student_0301,Module3,Programme2,Year1,Week9,Wed,,,0.71,0.6,None,None,Low,Yes,6
+24429626,Student_0302,Module5,Programme3,Year1,Week12,Wed,,,0.83,0.73,None,None,Low,Yes,7
+24978768,Student_0303,Module2,Programme1,Year3,Week3,Wed,Test1,100.0,0.89,1.0,None,None,Low,Yes,5
+23811774,Student_0304,Module2,Programme1,Year3,Week7,Fri,,,1.0,0.94,None,None,Low,Yes,5
+24741093,Student_0305,Module4,Programme2,Year1,Week12,Thu,Test2,71.2,0.93,0.53,Canvas Activity_007,Tutoring,Medium,Yes,6
+23461079,Student_0306,Module3,Programme2,Year1,Week1,Tue,Assignment1,50.3,0.94,0.84,None,None,Low,Yes,6
+23368452,Student_0307,Module2,Programme1,Year3,Week4,Wed,,,0.83,0.42,Canvas Activity_007,Tutoring,Medium,Yes,5
+23106081,Student_0308,Module3,Programme2,Year1,Week4,Wed,Test1,57.7,1.0,0.79,None,None,Low,Yes,6
+23983237,Student_0309,Module1,Programme1,Year2,Week7,Wed,,,0.88,1.0,None,None,Low,Yes,5
+24661909,Student_0310,Module1,Programme1,Year2,Week8,Tue,Test2,94.7,0.69,0.61,Class Attendance_007,Tutoring,Medium,Yes,5
+23558986,Student_0311,Module3,Programme2,Year1,Week1,Wed,,,1.0,0.63,None,None,Low,Yes,6
+23110078,Student_0312,Module3,Programme2,Year1,Week5,Tue,Test2,64.5,0.92,0.92,None,None,Low,Yes,6
+24915631,Student_0313,Module5,Programme3,Year1,Week7,Wed,,,0.75,0.5,Canvas Activity_007,Mentorship,Medium,Yes,7
+23022671,Student_0314,Module3,Programme2,Year1,Week12,Fri,Test2,55.5,0.75,0.67,None,None,Low,No,6
+24466976,Student_0315,Module3,Programme2,Year1,Week4,Fri,Assignment1,100.0,0.86,0.89,None,None,Low,No,6
+24404104,Student_0316,Module4,Programme2,Year1,Week4,Tue,,,0.89,0.67,None,None,Low,Yes,6
+24659066,Student_0317,Module1,Programme1,Year2,Week4,Fri,Test2,81.9,0.85,0.74,None,None,Low,Yes,5
+23051663,Student_0318,Module4,Programme2,Year1,Week12,Tue,,,0.87,0.91,None,None,Low,Yes,6
+24064284,Student_0319,Module1,Programme1,Year2,Week6,Fri,,,1.0,0.86,None,None,Low,Yes,5
+24926914,Student_0320,Module5,Programme3,Year1,Week7,Fri,Assignment1,46.8,0.98,0.83,Assessment Failure_007,Escalation,High,No,7
+23311955,Student_0321,Module1,Programme1,Year2,Week2,Tue,Assignment1,18.2,0.85,0.72,Assessment Failure_007,Counselling,High,No,5
+24182459,Student_0322,Module3,Programme2,Year1,Week5,Thu,,,0.96,0.85,None,None,Low,No,6
+24366970,Student_0323,Module1,Programme1,Year2,Week4,Fri,,,0.67,0.76,Class Attendance_007,Mentorship,Medium,Yes,5
+23112547,Student_0324,Module5,Programme3,Year1,Week3,Wed,,,0.88,0.86,None,None,Low,No,7
+23910681,Student_0325,Module3,Programme2,Year1,Week7,Thu,,,1.0,0.69,None,None,Low,Yes,6
+24607618,Student_0326,Module3,Programme2,Year1,Week11,Tue,,,0.79,0.75,None,None,Low,Yes,6
+24799678,Student_0327,Module1,Programme1,Year2,Week12,Thu,Test2,62.6,0.69,0.6,Class Attendance_007,Tutoring,Medium,Yes,5
+24810578,Student_0328,Module4,Programme2,Year1,Week6,Mon,,,0.72,0.77,None,None,Low,No,6
+23142483,Student_0329,Module2,Programme1,Year3,Week7,Mon,,,0.66,0.63,Class Attendance_007,Tutoring,Medium,No,5
+23658271,Student_0330,Module5,Programme3,Year1,Week5,Fri,Assignment2,83.5,0.7,0.58,Canvas Activity_007,Email Reminder,Medium,No,7
+23214835,Student_0331,Module2,Programme1,Year3,Week6,Fri,Assignment2,51.3,0.76,0.83,None,None,Low,Yes,5
+23401896,Student_0332,Module1,Programme1,Year2,Week5,Wed,Test1,31.9,0.61,0.82,Assessment Failure_007,Escalation,High,No,5
+23084896,Student_0333,Module1,Programme1,Year2,Week7,Thu,Assignment2,60.0,0.82,0.92,None,None,Low,Yes,5
+23477095,Student_0334,Module3,Programme2,Year1,Week2,Mon,,,0.96,0.7,None,None,Low,Yes,6
+23071295,Student_0335,Module3,Programme2,Year1,Week11,Fri,Assignment1,64.9,0.68,0.85,Class Attendance_007,Email Reminder,Medium,Yes,6
+23743974,Student_0336,Module1,Programme1,Year2,Week5,Thu,Test1,86.5,1.0,0.88,None,None,Low,Yes,5
+23887121,Student_0337,Module4,Programme2,Year1,Week6,Fri,Test1,57.7,0.9,0.86,None,None,Low,Yes,6
+24321831,Student_0338,Module3,Programme2,Year1,Week6,Fri,,,0.97,0.63,None,None,Low,Yes,6
+24348224,Student_0339,Module3,Programme2,Year1,Week5,Mon,,,0.72,0.81,None,None,Low,Yes,6
+24705738,Student_0340,Module3,Programme2,Year1,Week10,Mon,Test2,76.8,0.95,0.85,None,None,Low,Yes,6
+24056731,Student_0341,Module3,Programme2,Year1,Week7,Fri,Test2,65.3,0.66,0.78,Class Attendance_007,Mentorship,Medium,Yes,6
+24515448,Student_0342,Module3,Programme2,Year1,Week10,Tue,,,0.95,0.4,Canvas Activity_007,Mentorship,Medium,Yes,6
+23825816,Student_0343,Module1,Programme1,Year2,Week8,Fri,,,0.85,0.81,None,None,Low,Yes,5
+23374705,Student_0344,Module1,Programme1,Year2,Week7,Fri,Assignment1,88.0,0.9,1.0,None,None,Low,No,5
+24620118,Student_0345,Module5,Programme3,Year1,Week5,Wed,Assignment1,39.9,0.64,0.72,Assessment Failure_007,Counselling,High,Yes,7
+24856926,Student_0346,Module5,Programme3,Year1,Week1,Wed,Test2,51.4,0.69,0.65,Class Attendance_007,Escalation,High,No,7
+24658845,Student_0347,Module3,Programme2,Year1,Week5,Wed,Assignment1,68.5,0.91,0.85,None,None,Low,No,6
+23554594,Student_0348,Module2,Programme1,Year3,Week10,Tue,,,0.68,0.84,Class Attendance_007,Email Reminder,Medium,No,5
+23147718,Student_0349,Module4,Programme2,Year1,Week2,Tue,,,0.89,0.99,None,None,Low,No,6
+24357563,Student_0350,Module3,Programme2,Year1,Week5,Fri,,,0.61,0.55,Canvas Activity_007,Tutoring,Medium,No,6
+23645263,Student_0351,Module1,Programme1,Year2,Week5,Wed,,,0.95,0.91,None,None,Low,Yes,5
+24407321,Student_0352,Module1,Programme1,Year2,Week2,Tue,Test1,52.2,0.64,0.89,Class Attendance_007,Escalation,High,Yes,5
+24008239,Student_0353,Module4,Programme2,Year1,Week5,Mon,,,0.9,0.75,None,None,Low,Yes,6
+23107512,Student_0354,Module4,Programme2,Year1,Week4,Fri,,,0.91,0.84,None,None,Low,Yes,6
+23147443,Student_0355,Module1,Programme1,Year2,Week1,Thu,Test2,45.4,0.72,0.97,Assessment Failure_007,Escalation,High,No,5
+24519163,Student_0356,Module2,Programme1,Year3,Week3,Fri,Test2,51.8,0.91,0.94,None,None,Low,Yes,5
+23373616,Student_0357,Module2,Programme1,Year3,Week1,Thu,,,0.86,0.57,Canvas Activity_007,Counselling,High,No,5
+23657409,Student_0358,Module4,Programme2,Year1,Week12,Wed,Test1,53.5,0.74,0.93,None,None,Low,Yes,6
+23686976,Student_0359,Module1,Programme1,Year2,Week11,Thu,Test2,73.0,0.67,0.77,Class Attendance_007,Email Reminder,Medium,No,5
+24414447,Student_0360,Module1,Programme1,Year2,Week5,Wed,,,0.53,0.79,Class Attendance_007,Mentorship,Medium,Yes,5
+23375037,Student_0361,Module4,Programme2,Year1,Week4,Mon,,,0.87,0.79,None,None,Low,Yes,6
+24044107,Student_0362,Module1,Programme1,Year2,Week7,Thu,,,0.59,0.75,Class Attendance_007,Mentorship,Medium,Yes,5
+23807364,Student_0363,Module4,Programme2,Year1,Week5,Fri,,,0.83,0.99,None,None,Low,Yes,6
+23117796,Student_0364,Module2,Programme1,Year3,Week10,Wed,Test2,52.7,0.78,0.76,None,None,Low,Yes,5
+24340575,Student_0365,Module1,Programme1,Year2,Week4,Fri,,,0.92,0.58,Canvas Activity_007,Email Reminder,Medium,No,5
+24241082,Student_0366,Module2,Programme1,Year3,Week2,Tue,,,0.77,0.71,None,None,Low,Yes,5
+23990198,Student_0367,Module4,Programme2,Year1,Week4,Wed,,,0.77,0.81,None,None,Low,Yes,6
+23698376,Student_0368,Module5,Programme3,Year1,Week12,Thu,Test2,84.1,0.93,1.0,None,None,Low,Yes,7
+23269544,Student_0369,Module4,Programme2,Year1,Week2,Wed,,,0.87,0.89,None,None,Low,Yes,6
+23380002,Student_0370,Module3,Programme2,Year1,Week8,Fri,,,0.87,0.63,None,None,Low,Yes,6
+23698002,Student_0371,Module4,Programme2,Year1,Week3,Mon,Test2,51.8,0.89,1.0,None,None,Low,Yes,6
+24588015,Student_0372,Module2,Programme1,Year3,Week9,Wed,Assignment1,51.2,0.59,0.83,Class Attendance_007,Email Reminder,Medium,No,5
+23590978,Student_0373,Module2,Programme1,Year3,Week4,Thu,Test2,50.2,0.93,1.0,None,None,Low,No,5
+24577363,Student_0374,Module5,Programme3,Year1,Week6,Tue,Assignment1,49.4,0.91,0.75,Assessment Failure_007,Escalation,High,Yes,7
+24579159,Student_0375,Module1,Programme1,Year2,Week10,Mon,,,0.67,0.88,Class Attendance_007,Email Reminder,Medium,Yes,5
+23907317,Student_0376,Module1,Programme1,Year2,Week5,Tue,Test2,55.0,0.78,0.93,None,None,Low,Yes,5
+23388215,Student_0377,Module2,Programme1,Year3,Week10,Wed,Test2,50.6,0.81,1.0,None,None,Low,Yes,5
+23321184,Student_0378,Module1,Programme1,Year2,Week1,Fri,,,0.8,0.97,None,None,Low,Yes,5
+24847191,Student_0379,Module1,Programme1,Year2,Week9,Fri,Assignment1,68.5,0.87,0.94,None,None,Low,Yes,5
+24471091,Student_0380,Module3,Programme2,Year1,Week1,Thu,,,1.0,0.72,None,None,Low,Yes,6
+23668234,Student_0381,Module3,Programme2,Year1,Week8,Fri,Test2,84.9,0.98,0.68,None,None,Low,Yes,6
+23378480,Student_0382,Module5,Programme3,Year1,Week9,Mon,,,0.62,0.84,Class Attendance_007,Mentorship,Medium,Yes,7
+23032711,Student_0383,Module4,Programme2,Year1,Week9,Fri,,,0.91,0.95,None,None,Low,No,6
+23791971,Student_0384,Module2,Programme1,Year3,Week1,Thu,,,1.0,0.74,None,None,Low,No,5
+23501157,Student_0385,Module2,Programme1,Year3,Week2,Wed,Test2,47.3,0.88,0.97,Assessment Failure_007,Tutoring,High,No,5
+23184423,Student_0386,Module3,Programme2,Year1,Week12,Wed,,,0.98,1.0,None,None,Low,Yes,6
+23516349,Student_0387,Module3,Programme2,Year1,Week1,Fri,Assignment2,18.7,1.0,0.62,Assessment Failure_007,Tutoring,High,No,6
+24752290,Student_0388,Module2,Programme1,Year3,Week10,Tue,Test1,87.1,0.97,0.63,None,None,Low,Yes,5
+23912495,Student_0389,Module4,Programme2,Year1,Week2,Wed,Assignment1,74.1,0.86,0.75,None,None,Low,No,6
+24706493,Student_0390,Module3,Programme2,Year1,Week10,Fri,,,0.98,0.84,None,None,Low,Yes,6
+23824792,Student_0391,Module3,Programme2,Year1,Week12,Thu,,,0.84,0.69,None,None,Low,Yes,6
+24785954,Student_0392,Module3,Programme2,Year1,Week8,Fri,,,0.82,1.0,None,None,Low,Yes,6
+23133272,Student_0393,Module2,Programme1,Year3,Week5,Wed,Assignment1,48.7,0.77,0.86,Assessment Failure_007,Counselling,High,No,5
+23767836,Student_0394,Module5,Programme3,Year1,Week12,Thu,Assignment2,47.0,1.0,0.79,Assessment Failure_007,Tutoring,High,No,7
+23986001,Student_0395,Module4,Programme2,Year1,Week11,Fri,,,0.7,0.52,Canvas Activity_007,Tutoring,Medium,Yes,6
+23702335,Student_0396,Module1,Programme1,Year2,Week7,Mon,Assignment2,55.7,1.0,0.54,Canvas Activity_007,Email Reminder,Medium,Yes,5
+23807789,Student_0397,Module5,Programme3,Year1,Week2,Thu,,,0.89,0.83,None,None,Low,Yes,7
+24691985,Student_0398,Module3,Programme2,Year1,Week8,Mon,Test1,74.9,0.61,0.4,Canvas Activity_007,Mentorship,Medium,No,6
+24126081,Student_0399,Module5,Programme3,Year1,Week11,Tue,,,0.88,0.96,None,None,Low,Yes,7
+23002869,Student_0400,Module4,Programme2,Year1,Week6,Thu,,,0.5,0.75,Class Attendance_007,Mentorship,Medium,Yes,6
+23781474,Student_0401,Module3,Programme2,Year1,Week8,Mon,Test1,70.1,0.91,1.0,None,None,Low,Yes,6
+23454351,Student_0402,Module1,Programme1,Year2,Week1,Wed,Assignment2,80.1,0.95,1.0,None,None,Low,No,5
+24360828,Student_0403,Module2,Programme1,Year3,Week1,Wed,,,0.73,0.75,None,None,Low,Yes,5
+23636584,Student_0404,Module3,Programme2,Year1,Week12,Tue,,,0.84,0.76,None,None,Low,Yes,6
+23618467,Student_0405,Module4,Programme2,Year1,Week7,Thu,Test1,62.7,1.0,0.96,None,None,Low,Yes,6
+24138848,Student_0406,Module2,Programme1,Year3,Week8,Thu,Assignment1,81.7,0.74,1.0,None,None,Low,Yes,5
+23038467,Student_0407,Module1,Programme1,Year2,Week3,Thu,,,0.66,0.49,Canvas Activity_007,Tutoring,High,No,5
+24858336,Student_0408,Module4,Programme2,Year1,Week5,Tue,,,1.0,0.46,Canvas Activity_007,Mentorship,Medium,Yes,6
+24036685,Student_0409,Module5,Programme3,Year1,Week12,Thu,Assignment1,59.3,1.0,0.67,None,None,Low,Yes,7
+23877844,Student_0410,Module3,Programme2,Year1,Week1,Wed,,,0.82,0.88,None,None,Low,No,6
+23480047,Student_0411,Module1,Programme1,Year2,Week7,Mon,Test1,45.9,0.97,0.87,Assessment Failure_007,Tutoring,High,Yes,5
+24707923,Student_0412,Module2,Programme1,Year3,Week5,Wed,,,1.0,0.97,None,None,Low,Yes,5
+24107447,Student_0413,Module1,Programme1,Year2,Week8,Wed,Assignment2,58.8,0.71,0.56,Canvas Activity_007,Email Reminder,Medium,No,5
+23939903,Student_0414,Module5,Programme3,Year1,Week8,Mon,,,0.75,0.36,Canvas Activity_007,Email Reminder,Medium,No,7
+23128391,Student_0415,Module1,Programme1,Year2,Week9,Wed,,,1.0,0.93,None,None,Low,Yes,5
+23439430,Student_0416,Module3,Programme2,Year1,Week7,Tue,,,1.0,0.63,None,None,Low,Yes,6
+24017026,Student_0417,Module2,Programme1,Year3,Week11,Mon,,,0.9,0.42,Canvas Activity_007,Tutoring,Medium,Yes,5
+24659280,Student_0418,Module3,Programme2,Year1,Week1,Wed,,,0.69,0.81,Class Attendance_007,Counselling,High,No,6
+24905279,Student_0419,Module4,Programme2,Year1,Week3,Fri,,,1.0,0.92,None,None,Low,No,6
+24879072,Student_0420,Module4,Programme2,Year1,Week8,Wed,,,0.74,0.76,None,None,Low,Yes,6
+23256687,Student_0421,Module2,Programme1,Year3,Week3,Tue,,,0.77,0.7,None,None,Low,No,5
+24774027,Student_0422,Module1,Programme1,Year2,Week8,Thu,,,0.87,0.75,None,None,Low,Yes,5
+23107450,Student_0423,Module1,Programme1,Year2,Week1,Wed,,,1.0,0.71,None,None,Low,No,5
+23171890,Student_0424,Module5,Programme3,Year1,Week5,Thu,Assignment1,28.3,0.95,0.54,Assessment Failure_007,Counselling,High,Yes,7
+23438741,Student_0425,Module5,Programme3,Year1,Week4,Fri,,,0.88,0.65,None,None,Low,Yes,7
+23281974,Student_0426,Module3,Programme2,Year1,Week5,Wed,Assignment1,42.2,0.89,0.87,Assessment Failure_007,Tutoring,High,No,6
+24983509,Student_0427,Module4,Programme2,Year1,Week8,Mon,,,0.83,0.84,None,None,Low,Yes,6
+24448685,Student_0428,Module4,Programme2,Year1,Week10,Thu,Test1,64.9,0.9,0.81,None,None,Low,Yes,6
+23116381,Student_0429,Module1,Programme1,Year2,Week4,Fri,,,0.44,0.6,Class Attendance_007,Mentorship,Medium,No,5
+24521701,Student_0430,Module5,Programme3,Year1,Week11,Mon,,,0.78,0.75,None,None,Low,No,7
+24620197,Student_0431,Module3,Programme2,Year1,Week4,Mon,,,0.86,0.39,Canvas Activity_007,Email Reminder,Medium,No,6
+23134508,Student_0432,Module3,Programme2,Year1,Week3,Mon,,,0.65,0.81,Class Attendance_007,Counselling,High,No,6
+24778226,Student_0433,Module3,Programme2,Year1,Week7,Mon,Assignment1,74.1,0.88,1.0,None,None,Low,Yes,6
+24911221,Student_0434,Module1,Programme1,Year2,Week3,Wed,Test2,65.0,0.79,0.51,Canvas Activity_007,Escalation,High,Yes,5
+24447687,Student_0435,Module1,Programme1,Year2,Week12,Wed,Assignment2,83.3,1.0,0.67,None,None,Low,Yes,5
+24199386,Student_0436,Module4,Programme2,Year1,Week3,Wed,,,1.0,0.84,None,None,Low,Yes,6
+24341466,Student_0437,Module1,Programme1,Year2,Week11,Fri,Assignment1,44.6,0.75,1.0,Assessment Failure_007,Tutoring,High,No,5
+24622241,Student_0438,Module4,Programme2,Year1,Week10,Fri,,,0.8,0.7,None,None,Low,Yes,6
+23840477,Student_0439,Module2,Programme1,Year3,Week5,Fri,Assignment2,63.9,0.81,0.66,None,None,Low,Yes,5
+23360032,Student_0440,Module3,Programme2,Year1,Week5,Tue,Test2,20.3,0.75,0.43,Assessment Failure_007,Counselling,High,Yes,6
+24046811,Student_0441,Module2,Programme1,Year3,Week6,Fri,Assignment1,92.1,0.85,0.8,None,None,Low,Yes,5
+24418175,Student_0442,Module3,Programme2,Year1,Week8,Wed,,,0.71,1.0,None,None,Low,Yes,6
+24709536,Student_0443,Module4,Programme2,Year1,Week10,Wed,,,0.65,0.83,Class Attendance_007,Mentorship,Medium,Yes,6
+24798596,Student_0444,Module2,Programme1,Year3,Week6,Tue,Assignment2,33.5,0.91,0.78,Assessment Failure_007,Counselling,High,No,5
+23879611,Student_0445,Module3,Programme2,Year1,Week12,Tue,,,0.91,0.84,None,None,Low,Yes,6
+24220412,Student_0446,Module3,Programme2,Year1,Week1,Fri,Test2,100.0,0.7,0.78,Class Attendance_007,Tutoring,High,No,6
+23729903,Student_0447,Module4,Programme2,Year1,Week8,Thu,,,0.95,0.63,None,None,Low,Yes,6
+23045714,Student_0448,Module5,Programme3,Year1,Week8,Tue,,,0.73,0.93,None,None,Low,Yes,7
+23974339,Student_0449,Module4,Programme2,Year1,Week9,Mon,Assignment2,62.0,0.86,0.82,None,None,Low,Yes,6
+24675810,Student_0450,Module2,Programme1,Year3,Week9,Wed,,,0.94,0.78,None,None,Low,Yes,5
+24944624,Student_0451,Module1,Programme1,Year2,Week2,Mon,Assignment2,70.9,0.81,0.6,None,None,Low,Yes,5
+23630271,Student_0452,Module2,Programme1,Year3,Week2,Wed,,,0.89,1.0,None,None,Low,No,5
+24515536,Student_0453,Module3,Programme2,Year1,Week3,Wed,Assignment1,51.2,0.74,0.9,None,None,Low,No,6
+24760427,Student_0454,Module1,Programme1,Year2,Week1,Tue,,,0.79,0.68,None,None,Low,No,5
+23124123,Student_0455,Module3,Programme2,Year1,Week4,Tue,Assignment2,32.0,0.79,0.96,Assessment Failure_007,Counselling,High,No,6
+23936093,Student_0456,Module3,Programme2,Year1,Week4,Mon,,,0.71,0.69,None,None,Low,Yes,6
+24354204,Student_0457,Module2,Programme1,Year3,Week9,Wed,,,0.79,0.64,None,None,Low,Yes,5
+24131565,Student_0458,Module4,Programme2,Year1,Week9,Mon,,,0.59,0.64,Class Attendance_007,Mentorship,Medium,Yes,6
+24346932,Student_0459,Module1,Programme1,Year2,Week9,Thu,,,0.75,0.46,Canvas Activity_007,Tutoring,Medium,Yes,5
+23829957,Student_0460,Module1,Programme1,Year2,Week10,Mon,,,0.78,0.86,None,None,Low,Yes,5
+23178274,Student_0461,Module4,Programme2,Year1,Week7,Fri,Test2,71.6,0.78,0.45,Canvas Activity_007,Email Reminder,Medium,Yes,6
+23687995,Student_0462,Module3,Programme2,Year1,Week2,Mon,Assignment2,77.4,0.78,0.56,Canvas Activity_007,Tutoring,High,No,6
+24373928,Student_0463,Module4,Programme2,Year1,Week10,Fri,Assignment1,59.8,0.81,0.41,Canvas Activity_007,Email Reminder,Medium,No,6
+24868836,Student_0464,Module3,Programme2,Year1,Week5,Fri,,,0.89,0.76,None,None,Low,Yes,6
+23411927,Student_0465,Module2,Programme1,Year3,Week4,Fri,Assignment2,54.0,0.95,0.75,None,None,Low,Yes,5
+23789852,Student_0466,Module4,Programme2,Year1,Week12,Thu,,,0.72,0.72,None,None,Low,Yes,6
+24931760,Student_0467,Module4,Programme2,Year1,Week11,Mon,,,0.64,0.59,Canvas Activity_007,Mentorship,Medium,Yes,6
+23131373,Student_0468,Module4,Programme2,Year1,Week8,Mon,Test2,99.9,0.66,0.57,Canvas Activity_007,Mentorship,Medium,Yes,6
+24487028,Student_0469,Module2,Programme1,Year3,Week2,Thu,Test2,62.6,0.75,0.86,None,None,Low,No,5
+23115294,Student_0470,Module3,Programme2,Year1,Week6,Wed,Test2,37.2,0.77,0.68,Assessment Failure_007,Counselling,High,No,6
+24035362,Student_0471,Module3,Programme2,Year1,Week5,Tue,Test1,86.6,0.7,0.84,None,None,Low,Yes,6
+24508027,Student_0472,Module1,Programme1,Year2,Week12,Mon,Test1,64.3,0.63,0.62,Class Attendance_007,Tutoring,Medium,Yes,5
+23648307,Student_0473,Module5,Programme3,Year1,Week2,Tue,Test1,77.3,0.75,0.81,None,None,Low,Yes,7
+23065726,Student_0474,Module1,Programme1,Year2,Week11,Thu,,,0.85,1.0,None,None,Low,Yes,5
+23141564,Student_0475,Module5,Programme3,Year1,Week10,Wed,,,0.91,0.89,None,None,Low,Yes,7
+24426388,Student_0476,Module3,Programme2,Year1,Week1,Wed,Assignment1,51.3,0.74,0.71,None,None,Low,No,6
+23268246,Student_0477,Module1,Programme1,Year2,Week8,Wed,Assignment2,79.6,0.76,0.83,None,None,Low,No,5
+24754272,Student_0478,Module3,Programme2,Year1,Week2,Thu,Assignment2,62.0,0.68,0.74,Class Attendance_007,Escalation,High,No,6
+23118015,Student_0479,Module5,Programme3,Year1,Week7,Fri,,,0.82,0.78,None,None,Low,Yes,7
+24789250,Student_0480,Module4,Programme2,Year1,Week9,Fri,,,0.69,0.72,Class Attendance_007,Tutoring,Medium,No,6
+23254079,Student_0481,Module4,Programme2,Year1,Week9,Tue,Assignment2,70.0,0.91,0.75,None,None,Low,Yes,6
+23550929,Student_0482,Module4,Programme2,Year1,Week8,Fri,Test1,50.5,0.55,0.82,Class Attendance_007,Tutoring,Medium,No,6
+23689944,Student_0483,Module4,Programme2,Year1,Week11,Fri,,,0.77,0.6,None,None,Low,Yes,6
+23688105,Student_0484,Module4,Programme2,Year1,Week12,Wed,,,0.87,0.6,Canvas Activity_007,Tutoring,Medium,Yes,6
+23513758,Student_0485,Module2,Programme1,Year3,Week10,Wed,Test2,66.3,0.85,0.53,Canvas Activity_007,Tutoring,Medium,Yes,5
+24989173,Student_0486,Module3,Programme2,Year1,Week9,Tue,,,1.0,0.49,Canvas Activity_007,Tutoring,Medium,Yes,6
+23983609,Student_0487,Module2,Programme1,Year3,Week2,Mon,Assignment2,44.0,0.87,0.56,Assessment Failure_007,Tutoring,High,No,5
+24414466,Student_0488,Module5,Programme3,Year1,Week6,Tue,Test2,91.2,0.67,0.81,Class Attendance_007,Mentorship,Medium,Yes,7
+24017703,Student_0489,Module5,Programme3,Year1,Week4,Tue,,,0.81,0.62,None,None,Low,Yes,7
+23445101,Student_0490,Module1,Programme1,Year2,Week4,Thu,,,0.55,0.87,Class Attendance_007,Tutoring,Medium,Yes,5
+23036631,Student_0491,Module4,Programme2,Year1,Week5,Thu,Test1,90.6,0.81,0.79,None,None,Low,No,6
+24815153,Student_0492,Module5,Programme3,Year1,Week12,Tue,,,0.7,0.43,Canvas Activity_007,Mentorship,Medium,Yes,7
+24121567,Student_0493,Module1,Programme1,Year2,Week3,Tue,Assignment1,47.7,0.96,0.9,Assessment Failure_007,Escalation,High,No,5
+24052590,Student_0494,Module3,Programme2,Year1,Week1,Tue,,,0.74,0.93,None,None,Low,Yes,6
+24321813,Student_0495,Module5,Programme3,Year1,Week8,Fri,,,0.8,0.6,None,None,Low,Yes,7
+24066646,Student_0496,Module1,Programme1,Year2,Week5,Thu,,,0.72,0.86,None,None,Low,Yes,5
+24870785,Student_0497,Module4,Programme2,Year1,Week3,Tue,,,1.0,0.63,None,None,Low,Yes,6
+24105534,Student_0498,Module2,Programme1,Year3,Week10,Wed,Assignment2,67.5,0.77,0.8,None,None,Low,Yes,5
+24130650,Student_0499,Module5,Programme3,Year1,Week7,Wed,,,1.0,0.55,Canvas Activity_007,Mentorship,Medium,Yes,7
+24583593,Student_0500,Module5,Programme3,Year1,Week7,Fri,,,0.94,0.46,Canvas Activity_007,Email Reminder,Medium,Yes,7
+24803649,Student_0501,Module5,Programme3,Year1,Week1,Fri,,,0.89,0.71,None,None,Low,No,7
+24224665,Student_0502,Module3,Programme2,Year1,Week12,Mon,Assignment1,65.1,0.88,0.76,None,None,Low,Yes,6
+23197392,Student_0503,Module5,Programme3,Year1,Week9,Mon,,,0.88,0.71,None,None,Low,Yes,7
+23158823,Student_0504,Module4,Programme2,Year1,Week2,Mon,,,0.53,0.57,Canvas Activity_007,Tutoring,High,No,6
+24023904,Student_0505,Module2,Programme1,Year3,Week5,Fri,Assignment1,70.4,0.78,0.71,None,None,Low,Yes,5
+24678728,Student_0506,Module4,Programme2,Year1,Week5,Fri,,,0.95,0.83,None,None,Low,No,6
+24441578,Student_0507,Module1,Programme1,Year2,Week8,Fri,Test1,41.9,0.81,0.77,Assessment Failure_007,Counselling,High,Yes,5
+24782005,Student_0508,Module3,Programme2,Year1,Week8,Wed,Test1,50.6,0.61,0.81,Class Attendance_007,Mentorship,Medium,Yes,6
+23498863,Student_0509,Module2,Programme1,Year3,Week7,Fri,,,0.81,0.66,None,None,Low,Yes,5
+23367654,Student_0510,Module1,Programme1,Year2,Week7,Wed,,,1.0,0.99,None,None,Low,Yes,5
+23579036,Student_0511,Module1,Programme1,Year2,Week12,Mon,,,1.0,0.57,Canvas Activity_007,Mentorship,Medium,Yes,5
+23530089,Student_0512,Module4,Programme2,Year1,Week11,Mon,Test2,77.1,0.81,0.87,None,None,Low,Yes,6
+24198838,Student_0513,Module2,Programme1,Year3,Week6,Mon,,,0.96,0.99,None,None,Low,Yes,5
+24491481,Student_0514,Module4,Programme2,Year1,Week6,Tue,Assignment2,33.5,0.77,0.87,Assessment Failure_007,Escalation,High,No,6
+23235362,Student_0515,Module1,Programme1,Year2,Week11,Tue,Test1,82.5,0.56,0.74,Class Attendance_007,Tutoring,Medium,No,5
+24492785,Student_0516,Module2,Programme1,Year3,Week9,Thu,Test1,46.9,0.68,0.68,Assessment Failure_007,Counselling,High,No,5
+24602456,Student_0517,Module3,Programme2,Year1,Week6,Thu,,,1.0,0.97,None,None,Low,Yes,6
+23797079,Student_0518,Module4,Programme2,Year1,Week12,Thu,,,0.78,0.52,Canvas Activity_007,Mentorship,Medium,Yes,6
+23664076,Student_0519,Module2,Programme1,Year3,Week2,Tue,,,0.78,0.61,None,None,Low,No,5
+23219963,Student_0520,Module4,Programme2,Year1,Week2,Tue,,,0.78,0.71,None,None,Low,No,6
+23480761,Student_0521,Module5,Programme3,Year1,Week5,Thu,Assignment2,70.6,1.0,1.0,None,None,Low,Yes,7
+24297286,Student_0522,Module4,Programme2,Year1,Week4,Thu,,,1.0,0.85,None,None,Low,Yes,6
+23220984,Student_0523,Module2,Programme1,Year3,Week11,Fri,,,1.0,0.61,None,None,Low,Yes,5
+24945635,Student_0524,Module1,Programme1,Year2,Week2,Thu,,,0.8,0.72,None,None,Low,No,5
+24905324,Student_0525,Module5,Programme3,Year1,Week3,Fri,Test1,59.3,0.86,0.67,None,None,Low,Yes,7
+24830931,Student_0526,Module1,Programme1,Year2,Week7,Wed,,,0.59,0.65,Class Attendance_007,Tutoring,Medium,Yes,5
+23264512,Student_0527,Module5,Programme3,Year1,Week8,Tue,,,1.0,0.96,None,None,Low,No,7
+23601863,Student_0528,Module3,Programme2,Year1,Week12,Thu,,,0.64,0.53,Canvas Activity_007,Tutoring,Medium,Yes,6
+24317375,Student_0529,Module5,Programme3,Year1,Week6,Tue,,,0.85,1.0,None,None,Low,Yes,7
+24286125,Student_0530,Module4,Programme2,Year1,Week11,Tue,Test1,57.0,0.66,0.93,Class Attendance_007,Tutoring,Medium,Yes,6
+24642895,Student_0531,Module5,Programme3,Year1,Week5,Tue,,,0.73,0.98,None,None,Low,Yes,7
+24532875,Student_0532,Module3,Programme2,Year1,Week1,Wed,Test1,64.1,0.69,0.7,Class Attendance_007,Tutoring,High,No,6
+24660786,Student_0533,Module4,Programme2,Year1,Week8,Mon,,,0.73,0.75,None,None,Low,Yes,6
+23448982,Student_0534,Module3,Programme2,Year1,Week3,Thu,,,0.74,0.52,Canvas Activity_007,Tutoring,High,No,6
+24172622,Student_0535,Module3,Programme2,Year1,Week6,Mon,Test2,26.6,0.74,0.69,Assessment Failure_007,Tutoring,High,No,6
+23406619,Student_0536,Module4,Programme2,Year1,Week3,Mon,,,0.95,0.87,None,None,Low,No,6
+24080673,Student_0537,Module5,Programme3,Year1,Week7,Mon,,,0.65,1.0,Class Attendance_007,Email Reminder,Medium,Yes,7
+23996161,Student_0538,Module5,Programme3,Year1,Week7,Tue,Assignment2,54.4,0.85,0.58,Canvas Activity_007,Tutoring,Medium,Yes,7
+23666326,Student_0539,Module4,Programme2,Year1,Week12,Fri,,,1.0,0.71,None,None,Low,Yes,6
+23649150,Student_0540,Module3,Programme2,Year1,Week9,Tue,Assignment2,46.0,0.74,0.75,Assessment Failure_007,Tutoring,High,No,6
+24278805,Student_0541,Module3,Programme2,Year1,Week5,Tue,,,0.71,0.53,Canvas Activity_007,Mentorship,Medium,No,6
+23118834,Student_0542,Module4,Programme2,Year1,Week8,Mon,,,0.79,0.89,None,None,Low,Yes,6
+24142424,Student_0543,Module2,Programme1,Year3,Week10,Tue,,,1.0,0.65,None,None,Low,Yes,5
+24101497,Student_0544,Module1,Programme1,Year2,Week10,Mon,,,0.85,0.74,None,None,Low,Yes,5
+23705086,Student_0545,Module3,Programme2,Year1,Week8,Fri,,,0.74,0.7,None,None,Low,No,6
+24699005,Student_0546,Module2,Programme1,Year3,Week1,Thu,,,0.89,0.64,None,None,Low,No,5
+24754236,Student_0547,Module2,Programme1,Year3,Week12,Mon,Test1,79.2,0.65,0.78,Class Attendance_007,Tutoring,Medium,Yes,5
+23284821,Student_0548,Module2,Programme1,Year3,Week5,Fri,,,0.92,0.74,None,None,Low,No,5
+23055609,Student_0549,Module1,Programme1,Year2,Week3,Thu,,,0.88,0.71,None,None,Low,No,5
+23227897,Student_0550,Module1,Programme1,Year2,Week1,Wed,Test2,55.6,0.77,0.65,None,None,Low,Yes,5
+23974165,Student_0551,Module5,Programme3,Year1,Week4,Mon,Test1,64.0,0.69,0.84,Class Attendance_007,Tutoring,Medium,No,7
+24079600,Student_0552,Module3,Programme2,Year1,Week8,Mon,,,0.69,1.0,Class Attendance_007,Tutoring,Medium,Yes,6
+24025715,Student_0553,Module3,Programme2,Year1,Week3,Wed,,,0.9,0.81,None,None,Low,No,6
+24118889,Student_0554,Module4,Programme2,Year1,Week10,Wed,Test1,89.6,1.0,0.96,None,None,Low,Yes,6
+24438533,Student_0555,Module2,Programme1,Year3,Week2,Mon,Assignment2,37.8,0.72,0.53,Assessment Failure_007,Tutoring,High,Yes,5
+23184078,Student_0556,Module5,Programme3,Year1,Week11,Wed,Assignment1,46.5,0.89,0.81,Assessment Failure_007,Escalation,High,Yes,7
+24406005,Student_0557,Module4,Programme2,Year1,Week9,Tue,,,0.51,0.58,Canvas Activity_007,Email Reminder,Medium,Yes,6
+24981418,Student_0558,Module1,Programme1,Year2,Week10,Thu,Assignment1,80.4,0.73,0.51,Canvas Activity_007,Mentorship,Medium,Yes,5
+23461243,Student_0559,Module3,Programme2,Year1,Week5,Thu,,,0.82,0.65,None,None,Low,Yes,6
+24162208,Student_0560,Module5,Programme3,Year1,Week7,Thu,Test1,77.4,0.68,0.99,Class Attendance_007,Email Reminder,Medium,No,7
+23997639,Student_0561,Module5,Programme3,Year1,Week11,Tue,,,0.68,0.95,Class Attendance_007,Mentorship,Medium,Yes,7
+24985588,Student_0562,Module3,Programme2,Year1,Week11,Wed,Test2,89.0,0.72,0.82,None,None,Low,Yes,6
+23251451,Student_0563,Module4,Programme2,Year1,Week2,Fri,,,0.86,0.5,Canvas Activity_007,Tutoring,High,No,6
+23003051,Student_0564,Module1,Programme1,Year2,Week9,Wed,Assignment2,80.5,0.79,0.74,None,None,Low,Yes,5
+24752683,Student_0565,Module5,Programme3,Year1,Week9,Mon,,,0.48,0.83,Class Attendance_007,Email Reminder,Medium,Yes,7
+24425412,Student_0566,Module2,Programme1,Year3,Week4,Thu,Assignment1,72.8,0.5,0.81,Class Attendance_007,Mentorship,Medium,No,5
+24004646,Student_0567,Module5,Programme3,Year1,Week4,Wed,,,0.73,0.45,Canvas Activity_007,Email Reminder,Medium,No,7
+24660099,Student_0568,Module4,Programme2,Year1,Week6,Fri,,,0.89,0.62,None,None,Low,Yes,6
+23971525,Student_0569,Module4,Programme2,Year1,Week10,Mon,Assignment1,55.4,0.41,0.77,Class Attendance_007,Tutoring,Medium,Yes,6
+24770348,Student_0570,Module3,Programme2,Year1,Week10,Tue,,,0.75,0.88,None,None,Low,Yes,6
+23189407,Student_0571,Module2,Programme1,Year3,Week10,Tue,,,0.74,0.38,Canvas Activity_007,Email Reminder,Medium,Yes,5
+23449395,Student_0572,Module1,Programme1,Year2,Week6,Fri,Assignment1,57.1,1.0,0.75,None,None,Low,No,5
+23949597,Student_0573,Module2,Programme1,Year3,Week12,Mon,Test1,47.0,0.76,0.81,Assessment Failure_007,Counselling,High,No,5
+23462894,Student_0574,Module1,Programme1,Year2,Week1,Thu,Test2,81.7,0.88,0.93,None,None,Low,Yes,5
+24260386,Student_0575,Module4,Programme2,Year1,Week9,Wed,,,0.84,0.9,None,None,Low,Yes,6
+23957238,Student_0576,Module3,Programme2,Year1,Week2,Mon,,,0.5,0.88,Class Attendance_007,Escalation,High,No,6
+23727975,Student_0577,Module1,Programme1,Year2,Week5,Tue,Assignment1,72.4,0.94,0.64,None,None,Low,No,5
+23073523,Student_0578,Module5,Programme3,Year1,Week9,Fri,,,0.85,0.44,Canvas Activity_007,Email Reminder,Medium,No,7
+24809039,Student_0579,Module5,Programme3,Year1,Week4,Fri,,,0.9,0.71,None,None,Low,Yes,7
+24143052,Student_0580,Module5,Programme3,Year1,Week11,Wed,,,1.0,0.96,None,None,Low,Yes,7
+24282417,Student_0581,Module5,Programme3,Year1,Week3,Fri,,,0.51,1.0,Class Attendance_007,Counselling,High,No,7
+23803451,Student_0582,Module1,Programme1,Year2,Week7,Fri,,,1.0,0.91,None,None,Low,Yes,5
+24029225,Student_0583,Module3,Programme2,Year1,Week6,Mon,,,0.78,0.86,None,None,Low,Yes,6
+23870045,Student_0584,Module4,Programme2,Year1,Week8,Thu,Assignment2,45.9,0.86,0.85,Assessment Failure_007,Tutoring,High,No,6
+23222866,Student_0585,Module4,Programme2,Year1,Week3,Wed,,,0.81,0.68,None,None,Low,Yes,6
+24135248,Student_0586,Module1,Programme1,Year2,Week5,Mon,,,0.76,0.76,None,None,Low,Yes,5
+24646711,Student_0587,Module4,Programme2,Year1,Week10,Thu,,,0.73,1.0,None,None,Low,Yes,6
+24393470,Student_0588,Module2,Programme1,Year3,Week4,Mon,,,0.87,0.61,None,None,Low,Yes,5
+24783570,Student_0589,Module2,Programme1,Year3,Week4,Mon,,,0.59,1.0,Class Attendance_007,Tutoring,Medium,No,5
+23028251,Student_0590,Module3,Programme2,Year1,Week4,Fri,,,0.93,0.72,None,None,Low,No,6
+24676345,Student_0591,Module3,Programme2,Year1,Week10,Thu,Test1,60.3,0.76,1.0,None,None,Low,Yes,6
+24423286,Student_0592,Module3,Programme2,Year1,Week8,Wed,Test2,56.0,0.65,0.53,Canvas Activity_007,Tutoring,Medium,No,6
+24598809,Student_0593,Module1,Programme1,Year2,Week6,Wed,,,0.75,0.89,None,None,Low,Yes,5
+24925860,Student_0594,Module5,Programme3,Year1,Week3,Thu,,,1.0,0.65,None,None,Low,No,7
+24080793,Student_0595,Module2,Programme1,Year3,Week10,Fri,Assignment2,66.8,0.74,0.53,Canvas Activity_007,Mentorship,Medium,No,5
+24056884,Student_0596,Module1,Programme1,Year2,Week5,Tue,,,0.87,0.82,None,None,Low,Yes,5
+24316669,Student_0597,Module5,Programme3,Year1,Week6,Mon,,,0.71,0.96,None,None,Low,Yes,7
+23183062,Student_0598,Module5,Programme3,Year1,Week5,Fri,Assignment2,63.7,0.93,0.63,None,None,Low,Yes,7
+23394366,Student_0599,Module5,Programme3,Year1,Week6,Thu,Test2,59.1,0.92,0.51,Canvas Activity_007,Mentorship,Medium,No,7
+23744840,Student_0600,Module4,Programme2,Year1,Week8,Mon,Assignment2,46.3,1.0,0.76,Assessment Failure_007,Counselling,High,Yes,6
+23100235,Student_0601,Module4,Programme2,Year1,Week7,Wed,,,0.79,0.76,None,None,Low,Yes,6
+24123316,Student_0602,Module3,Programme2,Year1,Week5,Tue,Test1,75.3,0.92,0.88,None,None,Low,No,6
+23378496,Student_0603,Module1,Programme1,Year2,Week10,Wed,Assignment2,41.4,0.83,0.95,Assessment Failure_007,Escalation,High,Yes,5
+24901625,Student_0604,Module3,Programme2,Year1,Week6,Thu,,,1.0,0.77,None,None,Low,No,6
+23750201,Student_0605,Module3,Programme2,Year1,Week4,Mon,Test2,66.2,0.71,1.0,None,None,Low,Yes,6
+23803328,Student_0606,Module2,Programme1,Year3,Week12,Thu,Assignment2,49.1,0.93,0.82,Assessment Failure_007,Escalation,High,No,5
+24965806,Student_0607,Module4,Programme2,Year1,Week9,Mon,Test2,51.4,0.79,0.72,None,None,Low,Yes,6
+24043233,Student_0608,Module3,Programme2,Year1,Week4,Fri,,,0.81,0.49,Canvas Activity_007,Mentorship,Medium,No,6
+23177247,Student_0609,Module1,Programme1,Year2,Week1,Tue,,,0.83,0.73,None,None,Low,Yes,5
+24711741,Student_0610,Module2,Programme1,Year3,Week7,Fri,Assignment1,68.3,0.86,0.72,None,None,Low,Yes,5
+23529525,Student_0611,Module4,Programme2,Year1,Week7,Fri,Assignment2,45.9,0.8,0.95,Assessment Failure_007,Escalation,High,No,6
+24032751,Student_0612,Module1,Programme1,Year2,Week4,Thu,,,0.85,0.86,None,None,Low,Yes,5
+24068632,Student_0613,Module5,Programme3,Year1,Week3,Tue,Test2,100.0,1.0,0.57,Canvas Activity_007,Counselling,High,No,7
+23176615,Student_0614,Module3,Programme2,Year1,Week8,Mon,Test1,46.5,0.97,0.81,Assessment Failure_007,Escalation,High,Yes,6
+23187628,Student_0615,Module3,Programme2,Year1,Week5,Mon,Test1,71.6,0.95,0.9,None,None,Low,No,6
+23638836,Student_0616,Module3,Programme2,Year1,Week10,Wed,,,0.75,1.0,None,None,Low,Yes,6
+23373632,Student_0617,Module4,Programme2,Year1,Week7,Mon,,,0.69,0.94,Class Attendance_007,Email Reminder,Medium,Yes,6
+24182991,Student_0618,Module2,Programme1,Year3,Week4,Thu,Test2,39.2,0.96,0.92,Assessment Failure_007,Counselling,High,No,5
+23406716,Student_0619,Module4,Programme2,Year1,Week4,Fri,,,0.95,0.79,None,None,Low,No,6
+23446438,Student_0620,Module3,Programme2,Year1,Week8,Fri,Assignment1,46.3,1.0,0.85,Assessment Failure_007,Tutoring,High,No,6
+24602239,Student_0621,Module2,Programme1,Year3,Week8,Fri,Test2,58.3,0.73,1.0,None,None,Low,Yes,5
+23665022,Student_0622,Module5,Programme3,Year1,Week2,Tue,,,0.79,0.54,Canvas Activity_007,Tutoring,High,No,7
+23541252,Student_0623,Module4,Programme2,Year1,Week2,Mon,Assignment1,76.8,0.57,0.72,Class Attendance_007,Counselling,High,No,6
+24686293,Student_0624,Module4,Programme2,Year1,Week3,Thu,,,0.76,0.64,None,None,Low,Yes,6
+23252764,Student_0625,Module5,Programme3,Year1,Week12,Tue,Test1,71.9,0.97,0.85,None,None,Low,Yes,7
+23714998,Student_0626,Module5,Programme3,Year1,Week12,Wed,,,0.75,1.0,None,None,Low,Yes,7
+24515458,Student_0627,Module4,Programme2,Year1,Week3,Thu,Assignment2,59.9,0.92,0.67,None,None,Low,Yes,6
+23740427,Student_0628,Module4,Programme2,Year1,Week1,Thu,,,0.79,0.35,Canvas Activity_007,Escalation,High,No,6
+23512153,Student_0629,Module4,Programme2,Year1,Week3,Thu,Test1,48.3,0.87,0.71,Assessment Failure_007,Counselling,High,No,6
+23067215,Student_0630,Module4,Programme2,Year1,Week6,Fri,,,0.65,0.94,Class Attendance_007,Mentorship,Medium,Yes,6
+24904050,Student_0631,Module4,Programme2,Year1,Week8,Thu,Test2,89.5,0.83,0.88,None,None,Low,Yes,6
+23144356,Student_0632,Module4,Programme2,Year1,Week12,Mon,,,0.37,0.86,Class Attendance_007,Email Reminder,Medium,Yes,6
+23203861,Student_0633,Module1,Programme1,Year2,Week10,Thu,Test1,83.1,0.79,0.73,None,None,Low,Yes,5
+24002168,Student_0634,Module5,Programme3,Year1,Week6,Fri,,,0.58,0.55,Canvas Activity_007,Email Reminder,Medium,Yes,7
+23355612,Student_0635,Module5,Programme3,Year1,Week5,Thu,Assignment2,47.3,1.0,0.87,Assessment Failure_007,Counselling,High,Yes,7
+24503181,Student_0636,Module1,Programme1,Year2,Week4,Wed,Test2,35.8,0.94,0.63,Assessment Failure_007,Counselling,High,No,5
+23009435,Student_0637,Module4,Programme2,Year1,Week3,Wed,,,0.89,1.0,None,None,Low,Yes,6
+23447556,Student_0638,Module1,Programme1,Year2,Week4,Fri,Test1,52.1,1.0,0.88,None,None,Low,Yes,5
+24748014,Student_0639,Module2,Programme1,Year3,Week7,Mon,Test2,95.6,0.68,0.68,Class Attendance_007,Mentorship,Medium,No,5
+23865264,Student_0640,Module4,Programme2,Year1,Week1,Mon,,,1.0,0.67,None,None,Low,No,6
+24624157,Student_0641,Module1,Programme1,Year2,Week7,Tue,,,0.96,0.76,None,None,Low,Yes,5
+23078781,Student_0642,Module4,Programme2,Year1,Week1,Fri,Test2,41.4,0.78,0.74,Assessment Failure_007,Tutoring,High,No,6
+23191475,Student_0643,Module4,Programme2,Year1,Week2,Thu,,,0.99,0.98,None,None,Low,No,6
+23160196,Student_0644,Module3,Programme2,Year1,Week4,Fri,,,0.65,0.81,Class Attendance_007,Mentorship,Medium,No,6
+23226507,Student_0645,Module1,Programme1,Year2,Week1,Tue,Test1,62.8,0.7,0.65,Class Attendance_007,Counselling,High,Yes,5
+23306063,Student_0646,Module2,Programme1,Year3,Week11,Fri,,,0.73,1.0,None,None,Low,Yes,5
+23764121,Student_0647,Module4,Programme2,Year1,Week12,Fri,,,0.74,0.79,None,None,Low,Yes,6
+23776665,Student_0648,Module5,Programme3,Year1,Week11,Tue,,,0.66,0.92,Class Attendance_007,Email Reminder,Medium,Yes,7
+24739183,Student_0649,Module4,Programme2,Year1,Week11,Mon,Assignment2,61.7,1.0,0.67,None,None,Low,Yes,6
+24169748,Student_0650,Module2,Programme1,Year3,Week9,Thu,,,0.78,0.85,None,None,Low,Yes,5
+24405478,Student_0651,Module4,Programme2,Year1,Week12,Tue,Test1,72.6,0.87,0.84,None,None,Low,Yes,6
+23484963,Student_0652,Module3,Programme2,Year1,Week6,Wed,Assignment2,58.0,0.73,0.44,Canvas Activity_007,Tutoring,Medium,No,6
+24504544,Student_0653,Module4,Programme2,Year1,Week1,Mon,Assignment1,63.1,0.55,1.0,Class Attendance_007,Tutoring,High,No,6
+24367293,Student_0654,Module1,Programme1,Year2,Week1,Wed,,,0.86,1.0,None,None,Low,Yes,5
+24107677,Student_0655,Module4,Programme2,Year1,Week6,Mon,,,0.53,0.71,Class Attendance_007,Tutoring,Medium,No,6
+24544548,Student_0656,Module3,Programme2,Year1,Week4,Thu,,,0.81,0.58,Canvas Activity_007,Email Reminder,Medium,No,6
+23288790,Student_0657,Module5,Programme3,Year1,Week4,Thu,,,0.61,0.84,Class Attendance_007,Mentorship,Medium,No,7
+23890617,Student_0658,Module2,Programme1,Year3,Week11,Fri,Test1,46.1,1.0,0.8,Assessment Failure_007,Counselling,High,Yes,5
+23547337,Student_0659,Module4,Programme2,Year1,Week6,Wed,Test1,48.1,0.96,0.84,Assessment Failure_007,Tutoring,High,No,6
+24783541,Student_0660,Module5,Programme3,Year1,Week12,Mon,Test2,46.3,0.84,0.81,Assessment Failure_007,Counselling,High,Yes,7
+24408836,Student_0661,Module1,Programme1,Year2,Week11,Thu,Test1,75.0,1.0,0.87,None,None,Low,Yes,5
+24932387,Student_0662,Module5,Programme3,Year1,Week7,Tue,,,0.69,1.0,Class Attendance_007,Email Reminder,Medium,No,7
+24641249,Student_0663,Module4,Programme2,Year1,Week9,Thu,,,0.9,0.88,None,None,Low,Yes,6
+23650419,Student_0664,Module1,Programme1,Year2,Week10,Tue,Assignment2,45.5,0.85,0.59,Assessment Failure_007,Counselling,High,Yes,5
+23433374,Student_0665,Module2,Programme1,Year3,Week5,Mon,Test2,63.7,0.86,1.0,None,None,Low,Yes,5
+23720777,Student_0666,Module4,Programme2,Year1,Week9,Thu,Assignment2,33.8,1.0,1.0,Assessment Failure_007,Escalation,High,Yes,6
+24596153,Student_0667,Module1,Programme1,Year2,Week4,Thu,Assignment1,64.6,0.93,1.0,None,None,Low,No,5
+24420946,Student_0668,Module3,Programme2,Year1,Week10,Mon,,,0.86,0.58,Canvas Activity_007,Email Reminder,Medium,Yes,6
+23887225,Student_0669,Module2,Programme1,Year3,Week2,Thu,,,0.57,0.82,Class Attendance_007,Escalation,High,No,5
+23271967,Student_0670,Module4,Programme2,Year1,Week3,Tue,,,0.68,0.41,Canvas Activity_007,Counselling,High,No,6
+23191232,Student_0671,Module1,Programme1,Year2,Week11,Thu,,,0.8,0.88,None,None,Low,Yes,5
+24352695,Student_0672,Module5,Programme3,Year1,Week1,Wed,Test1,51.0,0.83,0.68,None,None,Low,Yes,7
+23009540,Student_0673,Module5,Programme3,Year1,Week6,Fri,Assignment1,82.4,0.65,1.0,Class Attendance_007,Mentorship,Medium,No,7
+24589228,Student_0674,Module5,Programme3,Year1,Week6,Tue,,,1.0,0.64,None,None,Low,No,7
+24446403,Student_0675,Module4,Programme2,Year1,Week1,Wed,,,1.0,0.48,Canvas Activity_007,Counselling,High,No,6
+23551951,Student_0676,Module1,Programme1,Year2,Week11,Mon,Assignment2,69.9,0.91,0.7,None,None,Low,Yes,5
+24100567,Student_0677,Module4,Programme2,Year1,Week3,Tue,,,0.83,0.42,Canvas Activity_007,Counselling,High,No,6
+23188751,Student_0678,Module1,Programme1,Year2,Week5,Fri,,,0.79,0.92,None,None,Low,No,5
+24414902,Student_0679,Module1,Programme1,Year2,Week3,Fri,,,0.68,0.41,Canvas Activity_007,Counselling,High,Yes,5
+24734913,Student_0680,Module2,Programme1,Year3,Week10,Mon,,,0.83,0.79,None,None,Low,Yes,5
+23618992,Student_0681,Module3,Programme2,Year1,Week3,Mon,,,0.86,0.41,Canvas Activity_007,Escalation,High,No,6
+23049115,Student_0682,Module4,Programme2,Year1,Week10,Tue,,,0.63,0.72,Class Attendance_007,Tutoring,Medium,Yes,6
+24401727,Student_0683,Module4,Programme2,Year1,Week3,Thu,Test2,59.2,0.87,1.0,None,None,Low,Yes,6
+23743583,Student_0684,Module3,Programme2,Year1,Week5,Mon,Assignment1,40.2,0.8,0.84,Assessment Failure_007,Tutoring,High,Yes,6
+24240538,Student_0685,Module2,Programme1,Year3,Week5,Thu,Test1,90.6,0.53,0.62,Class Attendance_007,Email Reminder,Medium,No,5
+23721747,Student_0686,Module5,Programme3,Year1,Week4,Wed,Assignment1,77.8,0.69,0.77,Class Attendance_007,Tutoring,Medium,No,7
+24197719,Student_0687,Module3,Programme2,Year1,Week1,Fri,,,0.76,0.78,None,None,Low,No,6
+24763211,Student_0688,Module3,Programme2,Year1,Week5,Thu,,,1.0,0.87,None,None,Low,Yes,6
+23536226,Student_0689,Module1,Programme1,Year2,Week10,Fri,Test1,30.9,0.9,0.53,Assessment Failure_007,Counselling,High,Yes,5
+23952699,Student_0690,Module4,Programme2,Year1,Week5,Thu,,,0.62,0.89,Class Attendance_007,Tutoring,Medium,No,6
+23353824,Student_0691,Module4,Programme2,Year1,Week4,Wed,Test1,60.9,0.89,0.29,Canvas Activity_007,Mentorship,Medium,No,6
+24052576,Student_0692,Module2,Programme1,Year3,Week6,Mon,Test1,48.5,0.59,0.67,Assessment Failure_007,Escalation,High,No,5
+23725948,Student_0693,Module1,Programme1,Year2,Week10,Wed,Assignment2,69.5,0.98,0.69,None,None,Low,Yes,5
+23887474,Student_0694,Module4,Programme2,Year1,Week4,Mon,Assignment2,83.0,0.75,0.89,None,None,Low,Yes,6
+24404330,Student_0695,Module4,Programme2,Year1,Week7,Mon,Test2,61.6,0.81,0.78,None,None,Low,Yes,6
+23251492,Student_0696,Module2,Programme1,Year3,Week7,Fri,,,1.0,0.53,Canvas Activity_007,Email Reminder,Medium,Yes,5
+24938699,Student_0697,Module5,Programme3,Year1,Week2,Wed,Test1,81.5,0.63,0.6,Class Attendance_007,Counselling,High,Yes,7
+24548098,Student_0698,Module1,Programme1,Year2,Week3,Thu,,,0.61,0.82,Class Attendance_007,Counselling,High,No,5
+23491072,Student_0699,Module3,Programme2,Year1,Week1,Wed,Test1,49.9,0.73,0.77,Assessment Failure_007,Tutoring,High,No,6
+24086880,Student_0700,Module5,Programme3,Year1,Week8,Fri,Test2,79.2,0.98,0.68,None,None,Low,Yes,7
+23504999,Student_0701,Module3,Programme2,Year1,Week9,Mon,Assignment1,13.2,0.59,0.69,Assessment Failure_007,Counselling,High,No,6
+23331593,Student_0702,Module4,Programme2,Year1,Week4,Fri,,,0.4,0.91,Class Attendance_007,Email Reminder,Medium,Yes,6
+23607274,Student_0703,Module3,Programme2,Year1,Week6,Tue,Test2,36.2,0.75,0.69,Assessment Failure_007,Counselling,High,No,6
+23151836,Student_0704,Module2,Programme1,Year3,Week9,Tue,,,0.9,0.76,None,None,Low,Yes,5
+23108940,Student_0705,Module5,Programme3,Year1,Week6,Thu,,,1.0,1.0,None,None,Low,Yes,7
+24003531,Student_0706,Module3,Programme2,Year1,Week12,Fri,,,0.75,0.52,Canvas Activity_007,Tutoring,Medium,Yes,6
+23824926,Student_0707,Module5,Programme3,Year1,Week12,Thu,,,0.76,0.45,Canvas Activity_007,Tutoring,Medium,Yes,7
+24314093,Student_0708,Module2,Programme1,Year3,Week12,Thu,Test2,42.3,0.99,0.92,Assessment Failure_007,Tutoring,High,No,5
+23667521,Student_0709,Module2,Programme1,Year3,Week9,Tue,Test2,100.0,0.54,0.66,Class Attendance_007,Mentorship,Medium,Yes,5
+24670396,Student_0710,Module1,Programme1,Year2,Week4,Thu,Test2,95.6,0.76,0.72,None,None,Low,Yes,5
+23879090,Student_0711,Module4,Programme2,Year1,Week8,Tue,,,0.85,0.64,None,None,Low,Yes,6
+23385777,Student_0712,Module3,Programme2,Year1,Week9,Mon,Test2,90.5,0.89,0.73,None,None,Low,Yes,6
+24673250,Student_0713,Module5,Programme3,Year1,Week4,Fri,Test2,54.8,0.74,1.0,None,None,Low,Yes,7
+23551638,Student_0714,Module3,Programme2,Year1,Week5,Thu,,,0.83,0.92,None,None,Low,Yes,6
+24665872,Student_0715,Module5,Programme3,Year1,Week8,Tue,Test2,60.9,0.45,0.94,Class Attendance_007,Tutoring,Medium,Yes,7
+24929305,Student_0716,Module1,Programme1,Year2,Week12,Wed,,,0.72,0.53,Canvas Activity_007,Mentorship,Medium,Yes,5
+23549639,Student_0717,Module5,Programme3,Year1,Week10,Thu,,,0.89,0.57,Canvas Activity_007,Email Reminder,Medium,Yes,7
+23612956,Student_0718,Module4,Programme2,Year1,Week6,Mon,Test1,64.3,0.67,0.27,Canvas Activity_007,Mentorship,Medium,No,6
+23638873,Student_0719,Module4,Programme2,Year1,Week12,Mon,Test1,53.4,0.83,0.63,None,None,Low,Yes,6
+24981385,Student_0720,Module4,Programme2,Year1,Week7,Wed,Assignment2,38.5,0.89,0.95,Assessment Failure_007,Tutoring,High,Yes,6
+24386073,Student_0721,Module4,Programme2,Year1,Week3,Tue,,,0.77,0.87,None,None,Low,No,6
+24256445,Student_0722,Module4,Programme2,Year1,Week7,Thu,,,0.85,0.74,None,None,Low,Yes,6
+23065953,Student_0723,Module1,Programme1,Year2,Week12,Tue,,,0.68,0.78,Class Attendance_007,Tutoring,Medium,Yes,5
+24892466,Student_0724,Module1,Programme1,Year2,Week8,Mon,,,0.79,0.66,None,None,Low,No,5
+23500328,Student_0725,Module5,Programme3,Year1,Week10,Tue,,,0.91,0.82,None,None,Low,Yes,7
+24855366,Student_0726,Module4,Programme2,Year1,Week6,Mon,Assignment2,86.7,0.84,0.92,None,None,Low,Yes,6
+23003267,Student_0727,Module4,Programme2,Year1,Week10,Tue,Assignment2,83.6,0.73,0.49,Canvas Activity_007,Email Reminder,Medium,No,6
+23082745,Student_0728,Module3,Programme2,Year1,Week9,Wed,,,0.85,0.83,None,None,Low,Yes,6
+24924596,Student_0729,Module1,Programme1,Year2,Week6,Fri,Test2,60.4,0.93,0.95,None,None,Low,Yes,5
+23824945,Student_0730,Module1,Programme1,Year2,Week12,Wed,Test1,95.8,0.51,0.71,Class Attendance_007,Mentorship,Medium,Yes,5
+23157164,Student_0731,Module4,Programme2,Year1,Week9,Wed,,,0.99,0.91,None,None,Low,Yes,6
+23535626,Student_0732,Module3,Programme2,Year1,Week4,Fri,Assignment1,56.1,0.77,1.0,None,None,Low,No,6
+23131484,Student_0733,Module2,Programme1,Year3,Week8,Fri,,,0.88,0.76,None,None,Low,Yes,5
+23531831,Student_0734,Module3,Programme2,Year1,Week11,Thu,,,1.0,0.85,None,None,Low,No,6
+23892323,Student_0735,Module1,Programme1,Year2,Week4,Thu,Assignment1,76.9,0.61,0.65,Class Attendance_007,Email Reminder,Medium,Yes,5
+24999576,Student_0736,Module3,Programme2,Year1,Week2,Wed,,,0.71,0.81,None,None,Low,Yes,6
+24109268,Student_0737,Module2,Programme1,Year3,Week10,Wed,Test1,67.2,0.78,0.86,None,None,Low,Yes,5
+24268732,Student_0738,Module4,Programme2,Year1,Week11,Mon,Assignment1,55.5,0.7,0.82,None,None,Low,Yes,6
+24272568,Student_0739,Module2,Programme1,Year3,Week9,Mon,Assignment2,58.7,1.0,0.6,Canvas Activity_007,Mentorship,Medium,Yes,5
+23516771,Student_0740,Module3,Programme2,Year1,Week5,Thu,Assignment2,17.2,0.69,0.82,Assessment Failure_007,Tutoring,High,Yes,6
+23830857,Student_0741,Module1,Programme1,Year2,Week4,Thu,,,0.74,1.0,None,None,Low,No,5
+23563044,Student_0742,Module1,Programme1,Year2,Week2,Mon,Test2,79.4,0.85,0.86,None,None,Low,No,5
+23543176,Student_0743,Module3,Programme2,Year1,Week1,Mon,Test1,50.6,0.64,0.95,Class Attendance_007,Tutoring,High,No,6
+23691095,Student_0744,Module3,Programme2,Year1,Week11,Tue,Test2,62.9,0.76,0.74,None,None,Low,Yes,6
+23833727,Student_0745,Module4,Programme2,Year1,Week7,Tue,,,0.87,0.91,None,None,Low,No,6
+24034978,Student_0746,Module2,Programme1,Year3,Week6,Mon,,,0.77,0.83,None,None,Low,No,5
+24162928,Student_0747,Module4,Programme2,Year1,Week2,Tue,Test2,58.1,0.81,0.61,None,None,Low,Yes,6
+23869474,Student_0748,Module5,Programme3,Year1,Week8,Fri,Test2,45.1,0.74,0.84,Assessment Failure_007,Escalation,High,No,7
+23085999,Student_0749,Module4,Programme2,Year1,Week11,Thu,Test1,86.0,0.59,0.6,Class Attendance_007,Tutoring,Medium,No,6
+24066531,Student_0750,Module1,Programme1,Year2,Week4,Thu,Test2,78.7,0.87,0.67,None,None,Low,No,5
+24872849,Student_0751,Module3,Programme2,Year1,Week8,Mon,,,1.0,0.81,None,None,Low,Yes,6
+23070640,Student_0752,Module1,Programme1,Year2,Week7,Wed,,,0.82,0.83,None,None,Low,Yes,5
+23196582,Student_0753,Module2,Programme1,Year3,Week5,Mon,Test2,71.7,0.85,0.57,Canvas Activity_007,Tutoring,Medium,No,5
+24792662,Student_0754,Module5,Programme3,Year1,Week10,Tue,Assignment1,73.6,0.92,0.97,None,None,Low,Yes,7
+23400573,Student_0755,Module1,Programme1,Year2,Week10,Wed,Assignment2,31.5,0.63,0.88,Assessment Failure_007,Escalation,High,No,5
+24474271,Student_0756,Module3,Programme2,Year1,Week12,Tue,,,1.0,0.65,None,None,Low,Yes,6
+23061476,Student_0757,Module4,Programme2,Year1,Week8,Fri,Test1,51.7,0.85,0.5,Canvas Activity_007,Email Reminder,Medium,No,6
+24355531,Student_0758,Module4,Programme2,Year1,Week9,Tue,,,1.0,0.75,None,None,Low,Yes,6
+24215856,Student_0759,Module3,Programme2,Year1,Week5,Fri,,,0.71,0.7,None,None,Low,Yes,6
+23675510,Student_0760,Module1,Programme1,Year2,Week10,Fri,Assignment2,67.4,1.0,0.8,None,None,Low,Yes,5
+24644044,Student_0761,Module2,Programme1,Year3,Week5,Tue,,,0.94,0.71,None,None,Low,Yes,5
+23698646,Student_0762,Module3,Programme2,Year1,Week2,Tue,,,0.9,0.42,Canvas Activity_007,Escalation,High,No,6
+23637144,Student_0763,Module1,Programme1,Year2,Week5,Fri,,,0.86,0.71,None,None,Low,Yes,5
+24903458,Student_0764,Module3,Programme2,Year1,Week3,Wed,Assignment1,37.8,0.78,0.72,Assessment Failure_007,Counselling,High,No,6
+23414568,Student_0765,Module1,Programme1,Year2,Week7,Fri,Test1,43.9,1.0,0.89,Assessment Failure_007,Tutoring,High,Yes,5
+24234717,Student_0766,Module1,Programme1,Year2,Week10,Thu,,,0.84,0.65,None,None,Low,Yes,5
+23898320,Student_0767,Module3,Programme2,Year1,Week5,Fri,,,0.52,1.0,Class Attendance_007,Email Reminder,Medium,No,6
+23634736,Student_0768,Module1,Programme1,Year2,Week8,Wed,,,0.65,0.44,Canvas Activity_007,Email Reminder,Medium,Yes,5
+24587261,Student_0769,Module3,Programme2,Year1,Week1,Thu,,,0.79,1.0,None,None,Low,Yes,6
+24226607,Student_0770,Module4,Programme2,Year1,Week3,Mon,,,0.87,0.74,None,None,Low,Yes,6
+24966808,Student_0771,Module4,Programme2,Year1,Week3,Mon,,,0.81,0.93,None,None,Low,Yes,6
+23968021,Student_0772,Module2,Programme1,Year3,Week9,Wed,Test1,64.5,1.0,0.79,None,None,Low,Yes,5
+24167756,Student_0773,Module1,Programme1,Year2,Week5,Fri,,,0.53,0.99,Class Attendance_007,Mentorship,Medium,Yes,5
+23066234,Student_0774,Module1,Programme1,Year2,Week12,Tue,,,0.84,0.71,None,None,Low,Yes,5
+24612818,Student_0775,Module4,Programme2,Year1,Week9,Wed,,,0.55,0.58,Canvas Activity_007,Tutoring,Medium,Yes,6
+23178352,Student_0776,Module4,Programme2,Year1,Week9,Thu,,,0.93,1.0,None,None,Low,Yes,6
+24128035,Student_0777,Module1,Programme1,Year2,Week1,Thu,Assignment2,55.5,0.81,0.76,None,None,Low,Yes,5
+23409995,Student_0778,Module5,Programme3,Year1,Week2,Mon,,,0.88,0.82,None,None,Low,No,7
+23195004,Student_0779,Module1,Programme1,Year2,Week5,Thu,,,0.69,1.0,Class Attendance_007,Email Reminder,Medium,No,5
+23466152,Student_0780,Module3,Programme2,Year1,Week4,Wed,Assignment1,42.5,1.0,0.59,Assessment Failure_007,Tutoring,High,No,6
+24990546,Student_0781,Module4,Programme2,Year1,Week10,Thu,,,0.98,0.89,None,None,Low,Yes,6
+24773832,Student_0782,Module5,Programme3,Year1,Week9,Wed,Assignment2,63.5,0.91,0.67,None,None,Low,Yes,7
+24107739,Student_0783,Module4,Programme2,Year1,Week7,Tue,Test2,78.4,0.8,0.76,None,None,Low,Yes,6
+24524429,Student_0784,Module4,Programme2,Year1,Week6,Mon,Test1,58.7,0.91,0.79,None,None,Low,No,6
+23051934,Student_0785,Module2,Programme1,Year3,Week7,Thu,Assignment1,40.2,0.71,0.51,Assessment Failure_007,Escalation,High,Yes,5
+24768831,Student_0786,Module4,Programme2,Year1,Week1,Wed,,,0.95,0.64,None,None,Low,Yes,6
+23425523,Student_0787,Module1,Programme1,Year2,Week1,Fri,,,1.0,1.0,None,None,Low,No,5
+23840530,Student_0788,Module5,Programme3,Year1,Week8,Mon,,,0.98,0.94,None,None,Low,Yes,7
+24502713,Student_0789,Module3,Programme2,Year1,Week2,Tue,,,0.71,0.77,None,None,Low,No,6
+23005486,Student_0790,Module4,Programme2,Year1,Week12,Wed,Assignment2,80.3,0.87,0.82,None,None,Low,Yes,6
+24187983,Student_0791,Module3,Programme2,Year1,Week10,Tue,Assignment1,51.3,0.63,0.73,Class Attendance_007,Email Reminder,Medium,Yes,6
+23873332,Student_0792,Module4,Programme2,Year1,Week11,Tue,,,0.91,1.0,None,None,Low,No,6
+24698884,Student_0793,Module3,Programme2,Year1,Week9,Thu,Test1,43.3,0.89,0.74,Assessment Failure_007,Counselling,High,No,6
+24039458,Student_0794,Module4,Programme2,Year1,Week7,Thu,,,0.54,0.82,Class Attendance_007,Email Reminder,Medium,Yes,6
+24675659,Student_0795,Module1,Programme1,Year2,Week6,Wed,,,0.65,0.99,Class Attendance_007,Mentorship,Medium,No,5
+23220184,Student_0796,Module1,Programme1,Year2,Week1,Fri,,,0.78,0.64,None,None,Low,Yes,5
+23666490,Student_0797,Module2,Programme1,Year3,Week1,Wed,,,0.77,1.0,None,None,Low,Yes,5
+24398228,Student_0798,Module1,Programme1,Year2,Week2,Fri,Test1,88.4,0.64,0.5,Canvas Activity_007,Counselling,High,No,5
+24809891,Student_0799,Module5,Programme3,Year1,Week6,Tue,Assignment2,71.1,0.88,1.0,None,None,Low,Yes,7
+24691188,Student_0800,Module2,Programme1,Year3,Week6,Mon,,,0.86,0.71,None,None,Low,Yes,5
+23322710,Student_0801,Module5,Programme3,Year1,Week2,Wed,Assignment1,40.6,0.79,0.74,Assessment Failure_007,Counselling,High,No,7
+23197775,Student_0802,Module2,Programme1,Year3,Week1,Wed,,,0.71,0.44,Canvas Activity_007,Escalation,High,No,5
+23289336,Student_0803,Module1,Programme1,Year2,Week10,Fri,Test1,45.3,0.98,0.7,Assessment Failure_007,Counselling,High,Yes,5
+23787494,Student_0804,Module4,Programme2,Year1,Week5,Tue,,,1.0,0.59,Canvas Activity_007,Email Reminder,Medium,No,6
+24656940,Student_0805,Module4,Programme2,Year1,Week5,Tue,,,0.75,0.67,None,None,Low,Yes,6
+24138356,Student_0806,Module3,Programme2,Year1,Week2,Fri,,,0.73,0.76,None,None,Low,Yes,6
+24201193,Student_0807,Module3,Programme2,Year1,Week6,Tue,Test2,58.0,0.89,0.95,None,None,Low,Yes,6
+23545977,Student_0808,Module4,Programme2,Year1,Week9,Thu,Test2,36.1,0.77,0.82,Assessment Failure_007,Counselling,High,No,6
+24846182,Student_0809,Module2,Programme1,Year3,Week2,Mon,,,0.8,0.84,None,None,Low,Yes,5
+24399181,Student_0810,Module5,Programme3,Year1,Week10,Wed,Assignment1,82.3,0.93,0.58,Canvas Activity_007,Email Reminder,Medium,Yes,7
+23912606,Student_0811,Module5,Programme3,Year1,Week2,Mon,,,0.53,0.62,Class Attendance_007,Counselling,High,No,7
+23889465,Student_0812,Module4,Programme2,Year1,Week3,Wed,,,1.0,1.0,None,None,Low,No,6
+23533636,Student_0813,Module1,Programme1,Year2,Week7,Thu,,,0.83,0.65,None,None,Low,No,5
+23941218,Student_0814,Module4,Programme2,Year1,Week6,Tue,,,0.76,1.0,None,None,Low,Yes,6
+23038102,Student_0815,Module1,Programme1,Year2,Week12,Fri,Assignment2,60.8,0.81,0.74,None,None,Low,Yes,5
+23074460,Student_0816,Module1,Programme1,Year2,Week8,Thu,,,0.81,0.78,None,None,Low,Yes,5
+24413354,Student_0817,Module2,Programme1,Year3,Week8,Mon,,,0.56,0.97,Class Attendance_007,Mentorship,Medium,Yes,5
+24138506,Student_0818,Module3,Programme2,Year1,Week6,Fri,Test2,83.8,1.0,1.0,None,None,Low,Yes,6
+24579665,Student_0819,Module5,Programme3,Year1,Week12,Tue,,,0.83,0.76,None,None,Low,Yes,7
+24676014,Student_0820,Module4,Programme2,Year1,Week11,Thu,,,0.89,0.71,None,None,Low,Yes,6
+24776203,Student_0821,Module4,Programme2,Year1,Week10,Fri,Test1,81.8,0.96,0.77,None,None,Low,Yes,6
+23179208,Student_0822,Module3,Programme2,Year1,Week3,Thu,Test1,74.9,0.67,0.84,Class Attendance_007,Tutoring,High,No,6
+24203273,Student_0823,Module2,Programme1,Year3,Week3,Thu,,,0.89,0.94,None,None,Low,Yes,5
+23213945,Student_0824,Module3,Programme2,Year1,Week1,Tue,Test2,52.5,0.78,0.78,None,None,Low,Yes,6
+23231915,Student_0825,Module5,Programme3,Year1,Week7,Wed,,,0.95,0.89,None,None,Low,Yes,7
+23727952,Student_0826,Module1,Programme1,Year2,Week5,Fri,,,0.5,1.0,Class Attendance_007,Mentorship,Medium,Yes,5
+23208124,Student_0827,Module5,Programme3,Year1,Week4,Tue,Assignment1,84.2,0.81,0.85,None,None,Low,Yes,7
+23437477,Student_0828,Module3,Programme2,Year1,Week10,Thu,Test2,61.9,0.73,0.84,None,None,Low,Yes,6
+23525830,Student_0829,Module3,Programme2,Year1,Week4,Tue,,,0.88,0.51,Canvas Activity_007,Email Reminder,Medium,No,6
+24332397,Student_0830,Module4,Programme2,Year1,Week4,Wed,Assignment1,85.5,0.89,0.31,Canvas Activity_007,Email Reminder,Medium,Yes,6
+24226380,Student_0831,Module3,Programme2,Year1,Week6,Fri,,,0.71,0.85,None,None,Low,Yes,6
+24754279,Student_0832,Module5,Programme3,Year1,Week8,Wed,Test2,36.6,0.71,0.76,Assessment Failure_007,Escalation,High,No,7
+23039081,Student_0833,Module5,Programme3,Year1,Week8,Mon,,,0.8,0.69,None,None,Low,Yes,7
+23718216,Student_0834,Module3,Programme2,Year1,Week5,Fri,,,0.69,0.82,Class Attendance_007,Mentorship,Medium,Yes,6
+23355249,Student_0835,Module2,Programme1,Year3,Week6,Wed,Test1,87.1,0.95,0.77,None,None,Low,Yes,5
+24268506,Student_0836,Module3,Programme2,Year1,Week4,Thu,Test1,64.0,0.76,0.98,None,None,Low,Yes,6
+23805497,Student_0837,Module5,Programme3,Year1,Week12,Fri,Assignment2,85.7,0.38,0.8,Class Attendance_007,Tutoring,Medium,Yes,7
+23517313,Student_0838,Module2,Programme1,Year3,Week11,Fri,Assignment1,37.6,0.76,0.65,Assessment Failure_007,Tutoring,High,No,5
+24263108,Student_0839,Module4,Programme2,Year1,Week9,Tue,,,0.66,0.96,Class Attendance_007,Mentorship,Medium,Yes,6
+23612380,Student_0840,Module4,Programme2,Year1,Week8,Thu,,,0.58,0.74,Class Attendance_007,Tutoring,Medium,No,6
+24567908,Student_0841,Module4,Programme2,Year1,Week10,Mon,Test1,59.9,0.63,0.87,Class Attendance_007,Email Reminder,Medium,Yes,6
+24365413,Student_0842,Module1,Programme1,Year2,Week12,Wed,,,0.84,0.69,None,None,Low,Yes,5
+24337682,Student_0843,Module4,Programme2,Year1,Week10,Tue,,,1.0,0.66,None,None,Low,Yes,6
+24076871,Student_0844,Module5,Programme3,Year1,Week1,Wed,Test1,54.0,0.87,0.8,None,None,Low,No,7
+24062383,Student_0845,Module1,Programme1,Year2,Week2,Mon,Test2,64.5,0.73,0.78,None,None,Low,Yes,5
+24484140,Student_0846,Module2,Programme1,Year3,Week9,Mon,,,0.89,0.87,None,None,Low,Yes,5
+23157504,Student_0847,Module5,Programme3,Year1,Week8,Fri,,,0.75,0.73,None,None,Low,Yes,7
+24286643,Student_0848,Module1,Programme1,Year2,Week3,Mon,,,0.72,0.45,Canvas Activity_007,Tutoring,High,No,5
+24533584,Student_0849,Module5,Programme3,Year1,Week8,Wed,,,0.65,0.7,Class Attendance_007,Email Reminder,Medium,No,7
+23692440,Student_0850,Module3,Programme2,Year1,Week12,Thu,Test1,59.0,0.56,0.92,Class Attendance_007,Tutoring,Medium,Yes,6
+23394540,Student_0851,Module2,Programme1,Year3,Week1,Thu,,,0.76,0.73,None,None,Low,Yes,5
+24926275,Student_0852,Module5,Programme3,Year1,Week10,Fri,,,0.84,0.74,None,None,Low,Yes,7
+23517923,Student_0853,Module3,Programme2,Year1,Week4,Wed,,,0.81,0.96,None,None,Low,No,6
+24215557,Student_0854,Module3,Programme2,Year1,Week3,Wed,Assignment2,84.9,0.76,0.65,None,None,Low,No,6
+23744699,Student_0855,Module3,Programme2,Year1,Week6,Mon,Test2,40.9,0.68,0.5,Assessment Failure_007,Escalation,High,Yes,6
+23019870,Student_0856,Module3,Programme2,Year1,Week7,Wed,Test2,49.0,0.91,0.75,Assessment Failure_007,Tutoring,High,Yes,6
+23952082,Student_0857,Module1,Programme1,Year2,Week4,Tue,,,0.62,0.69,Class Attendance_007,Mentorship,Medium,No,5
+24251772,Student_0858,Module3,Programme2,Year1,Week7,Mon,Test2,43.3,0.94,0.61,Assessment Failure_007,Counselling,High,No,6
+23248683,Student_0859,Module5,Programme3,Year1,Week9,Tue,,,0.67,0.75,Class Attendance_007,Email Reminder,Medium,Yes,7
+24283253,Student_0860,Module2,Programme1,Year3,Week11,Fri,Test1,75.2,0.71,0.87,None,None,Low,Yes,5
+23026790,Student_0861,Module4,Programme2,Year1,Week2,Thu,Assignment1,24.6,0.6,0.78,Assessment Failure_007,Counselling,High,No,6
+24691738,Student_0862,Module2,Programme1,Year3,Week11,Fri,,,0.74,0.84,None,None,Low,Yes,5
+23811721,Student_0863,Module4,Programme2,Year1,Week3,Thu,,,0.97,1.0,None,None,Low,Yes,6
+23448345,Student_0864,Module1,Programme1,Year2,Week5,Fri,,,0.9,0.72,None,None,Low,Yes,5
+23749074,Student_0865,Module5,Programme3,Year1,Week3,Wed,Assignment2,26.3,0.97,0.83,Assessment Failure_007,Counselling,High,No,7
+24536038,Student_0866,Module3,Programme2,Year1,Week11,Tue,,,0.9,0.69,None,None,Low,Yes,6
+24588349,Student_0867,Module2,Programme1,Year3,Week8,Thu,Assignment1,78.2,0.65,0.63,Class Attendance_007,Tutoring,Medium,Yes,5
+24879490,Student_0868,Module1,Programme1,Year2,Week12,Mon,Assignment1,82.2,0.77,0.67,None,None,Low,Yes,5
+24134764,Student_0869,Module1,Programme1,Year2,Week10,Tue,,,0.7,0.69,None,None,Low,Yes,5
+23529036,Student_0870,Module3,Programme2,Year1,Week8,Mon,Assignment2,74.3,1.0,0.84,None,None,Low,Yes,6
+24790705,Student_0871,Module2,Programme1,Year3,Week8,Tue,Assignment1,87.0,0.64,1.0,Class Attendance_007,Mentorship,Medium,Yes,5
+24713371,Student_0872,Module4,Programme2,Year1,Week12,Tue,,,0.95,0.65,None,None,Low,Yes,6
+23790141,Student_0873,Module3,Programme2,Year1,Week12,Fri,,,0.95,0.71,None,None,Low,Yes,6
+23648249,Student_0874,Module2,Programme1,Year3,Week9,Thu,,,1.0,0.77,None,None,Low,Yes,5
+24078931,Student_0875,Module4,Programme2,Year1,Week4,Thu,Test1,47.2,0.76,0.85,Assessment Failure_007,Counselling,High,No,6
+23711131,Student_0876,Module4,Programme2,Year1,Week5,Tue,Test2,54.3,0.93,0.83,None,None,Low,Yes,6
+23451015,Student_0877,Module1,Programme1,Year2,Week5,Wed,Assignment1,57.3,1.0,1.0,None,None,Low,No,5
+24454908,Student_0878,Module1,Programme1,Year2,Week8,Wed,,,0.73,0.34,Canvas Activity_007,Tutoring,Medium,Yes,5
+23156542,Student_0879,Module1,Programme1,Year2,Week7,Mon,,,0.59,0.35,Canvas Activity_007,Escalation,High,Yes,5
+24221992,Student_0880,Module4,Programme2,Year1,Week9,Mon,,,0.54,0.69,Class Attendance_007,Mentorship,Medium,Yes,6
+23305062,Student_0881,Module4,Programme2,Year1,Week8,Fri,Test1,58.9,0.93,0.98,None,None,Low,No,6
+24887232,Student_0882,Module3,Programme2,Year1,Week2,Tue,,,0.54,0.5,Canvas Activity_007,Tutoring,High,No,6
+24612162,Student_0883,Module4,Programme2,Year1,Week10,Mon,Test1,68.4,0.76,0.24,Canvas Activity_007,Mentorship,Medium,No,6
+24550284,Student_0884,Module4,Programme2,Year1,Week12,Mon,,,0.89,0.88,None,None,Low,Yes,6
+23866651,Student_0885,Module3,Programme2,Year1,Week4,Tue,,,0.85,0.82,None,None,Low,No,6
+24110205,Student_0886,Module5,Programme3,Year1,Week6,Fri,,,0.88,0.58,Canvas Activity_007,Mentorship,Medium,Yes,7
+24376760,Student_0887,Module2,Programme1,Year3,Week12,Mon,,,0.85,0.6,None,None,Low,Yes,5
+24541310,Student_0888,Module1,Programme1,Year2,Week2,Fri,,,1.0,0.61,None,None,Low,No,5
+23755195,Student_0889,Module2,Programme1,Year3,Week7,Thu,,,0.68,0.8,Class Attendance_007,Mentorship,Medium,Yes,5
+23290160,Student_0890,Module1,Programme1,Year2,Week3,Fri,,,0.72,0.67,None,None,Low,No,5
+24596824,Student_0891,Module3,Programme2,Year1,Week3,Wed,Assignment1,69.9,0.7,0.87,None,None,Low,Yes,6
+24868599,Student_0892,Module5,Programme3,Year1,Week11,Wed,,,0.94,0.27,Canvas Activity_007,Tutoring,Medium,No,7
+23213920,Student_0893,Module1,Programme1,Year2,Week2,Fri,Assignment2,61.6,0.96,0.63,None,None,Low,No,5
+24938341,Student_0894,Module1,Programme1,Year2,Week11,Wed,,,0.89,0.58,Canvas Activity_007,Tutoring,Medium,Yes,5
+24291380,Student_0895,Module3,Programme2,Year1,Week8,Thu,,,1.0,0.73,None,None,Low,Yes,6
+24425541,Student_0896,Module5,Programme3,Year1,Week6,Tue,,,0.64,0.68,Class Attendance_007,Tutoring,Medium,Yes,7
+24509433,Student_0897,Module2,Programme1,Year3,Week1,Wed,Assignment2,27.0,1.0,0.92,Assessment Failure_007,Tutoring,High,No,5
+24871403,Student_0898,Module3,Programme2,Year1,Week12,Wed,Test2,61.9,1.0,0.45,Canvas Activity_007,Tutoring,Medium,Yes,6
+24553068,Student_0899,Module1,Programme1,Year2,Week1,Fri,,,0.93,0.79,None,None,Low,No,5
+23653983,Student_0900,Module1,Programme1,Year2,Week7,Thu,,,1.0,0.88,None,None,Low,No,5
+24464492,Student_0901,Module5,Programme3,Year1,Week8,Tue,,,0.57,1.0,Class Attendance_007,Tutoring,Medium,Yes,7
+23821052,Student_0902,Module5,Programme3,Year1,Week5,Fri,Assignment2,76.6,0.74,0.69,None,None,Low,Yes,7
+24807150,Student_0903,Module1,Programme1,Year2,Week12,Fri,,,0.71,0.84,None,None,Low,Yes,5
+23128148,Student_0904,Module5,Programme3,Year1,Week11,Thu,,,0.93,0.46,Canvas Activity_007,Mentorship,Medium,Yes,7
+24855567,Student_0905,Module4,Programme2,Year1,Week5,Tue,Test1,77.8,0.66,0.35,Canvas Activity_007,Email Reminder,Medium,Yes,6
+24534837,Student_0906,Module5,Programme3,Year1,Week4,Thu,Assignment2,36.2,0.93,0.93,Assessment Failure_007,Counselling,High,No,7
+24404116,Student_0907,Module3,Programme2,Year1,Week6,Tue,,,1.0,0.78,None,None,Low,Yes,6
+24241290,Student_0908,Module3,Programme2,Year1,Week6,Thu,,,0.92,0.99,None,None,Low,Yes,6
+23731899,Student_0909,Module3,Programme2,Year1,Week3,Fri,,,0.86,0.53,Canvas Activity_007,Counselling,High,Yes,6
+23283876,Student_0910,Module4,Programme2,Year1,Week9,Fri,,,0.67,0.87,Class Attendance_007,Email Reminder,Medium,No,6
+23259747,Student_0911,Module1,Programme1,Year2,Week12,Mon,,,0.69,1.0,Class Attendance_007,Tutoring,Medium,Yes,5
+23615650,Student_0912,Module1,Programme1,Year2,Week11,Wed,,,1.0,0.86,None,None,Low,Yes,5
+23423570,Student_0913,Module2,Programme1,Year3,Week7,Thu,Test1,60.5,0.94,0.83,None,None,Low,Yes,5
+23275987,Student_0914,Module4,Programme2,Year1,Week1,Mon,Assignment2,67.5,0.81,0.78,None,None,Low,Yes,6
+24027512,Student_0915,Module2,Programme1,Year3,Week7,Wed,,,0.76,0.5,Canvas Activity_007,Tutoring,Medium,Yes,5
+23638353,Student_0916,Module4,Programme2,Year1,Week5,Thu,,,0.52,1.0,Class Attendance_007,Email Reminder,Medium,No,6
+23858158,Student_0917,Module5,Programme3,Year1,Week5,Tue,,,0.66,0.67,Class Attendance_007,Mentorship,Medium,No,7
+23017640,Student_0918,Module1,Programme1,Year2,Week2,Wed,,,1.0,0.87,None,None,Low,Yes,5
+23052528,Student_0919,Module4,Programme2,Year1,Week4,Fri,Assignment2,29.5,0.63,0.5,Assessment Failure_007,Tutoring,High,No,6
+24873421,Student_0920,Module3,Programme2,Year1,Week12,Mon,,,0.85,0.57,Canvas Activity_007,Tutoring,Medium,Yes,6
+23259214,Student_0921,Module5,Programme3,Year1,Week6,Wed,Test2,68.6,0.97,1.0,None,None,Low,Yes,7
+24887646,Student_0922,Module1,Programme1,Year2,Week10,Wed,Test2,49.8,0.63,0.72,Assessment Failure_007,Escalation,High,No,5
+23970240,Student_0923,Module4,Programme2,Year1,Week11,Fri,,,0.85,1.0,None,None,Low,Yes,6
+23501108,Student_0924,Module4,Programme2,Year1,Week7,Thu,,,0.96,0.77,None,None,Low,Yes,6
+23634421,Student_0925,Module5,Programme3,Year1,Week11,Tue,,,0.82,0.45,Canvas Activity_007,Mentorship,Medium,No,7
+24417077,Student_0926,Module4,Programme2,Year1,Week5,Fri,Test2,57.9,1.0,0.94,None,None,Low,Yes,6
+24772802,Student_0927,Module3,Programme2,Year1,Week9,Tue,,,0.57,0.67,Class Attendance_007,Email Reminder,Medium,Yes,6
+24198735,Student_0928,Module4,Programme2,Year1,Week3,Thu,Assignment2,47.2,0.98,0.91,Assessment Failure_007,Tutoring,High,No,6
+24221078,Student_0929,Module5,Programme3,Year1,Week1,Wed,Assignment1,85.4,0.79,0.78,None,None,Low,Yes,7
+23155576,Student_0930,Module3,Programme2,Year1,Week4,Tue,,,0.94,0.5,Canvas Activity_007,Email Reminder,Medium,No,6
+23924618,Student_0931,Module1,Programme1,Year2,Week9,Mon,,,0.89,0.81,None,None,Low,Yes,5
+23865291,Student_0932,Module5,Programme3,Year1,Week4,Mon,,,0.71,1.0,None,None,Low,No,7
+23886089,Student_0933,Module4,Programme2,Year1,Week2,Fri,Test2,47.3,0.85,0.87,Assessment Failure_007,Counselling,High,No,6
+23928479,Student_0934,Module4,Programme2,Year1,Week10,Thu,,,0.54,0.77,Class Attendance_007,Tutoring,Medium,Yes,6
+24059599,Student_0935,Module2,Programme1,Year3,Week5,Fri,Test1,86.4,0.91,0.97,None,None,Low,No,5
+23545735,Student_0936,Module4,Programme2,Year1,Week3,Fri,,,0.86,0.82,None,None,Low,Yes,6
+23388043,Student_0937,Module3,Programme2,Year1,Week12,Fri,Test2,50.7,0.92,0.82,None,None,Low,Yes,6
+24334679,Student_0938,Module4,Programme2,Year1,Week9,Mon,Test2,14.9,0.98,0.58,Assessment Failure_007,Counselling,High,Yes,6
+23066203,Student_0939,Module1,Programme1,Year2,Week4,Mon,,,0.88,0.82,None,None,Low,Yes,5
+23905588,Student_0940,Module4,Programme2,Year1,Week6,Fri,,,0.84,0.97,None,None,Low,Yes,6
+23160775,Student_0941,Module5,Programme3,Year1,Week2,Mon,Test2,64.4,0.69,0.63,Class Attendance_007,Escalation,High,No,7
+24057913,Student_0942,Module1,Programme1,Year2,Week6,Thu,Test1,56.1,0.71,1.0,None,None,Low,Yes,5
+23570715,Student_0943,Module5,Programme3,Year1,Week3,Fri,,,1.0,0.76,None,None,Low,Yes,7
+24563299,Student_0944,Module3,Programme2,Year1,Week12,Mon,Test2,56.9,1.0,0.62,None,None,Low,Yes,6
+24372249,Student_0945,Module5,Programme3,Year1,Week12,Tue,Test1,71.1,0.78,0.96,None,None,Low,Yes,7
+23364167,Student_0946,Module4,Programme2,Year1,Week9,Fri,Assignment2,71.5,0.83,0.73,None,None,Low,Yes,6
+24395385,Student_0947,Module3,Programme2,Year1,Week11,Fri,Assignment2,27.8,0.68,0.92,Assessment Failure_007,Tutoring,High,No,6
+24678651,Student_0948,Module4,Programme2,Year1,Week2,Thu,,,1.0,0.73,None,None,Low,Yes,6
+23687281,Student_0949,Module5,Programme3,Year1,Week12,Wed,,,0.92,0.77,None,None,Low,Yes,7
+24344027,Student_0950,Module3,Programme2,Year1,Week12,Wed,,,1.0,0.87,None,None,Low,Yes,6
+23420571,Student_0951,Module2,Programme1,Year3,Week9,Thu,,,0.69,0.83,Class Attendance_007,Mentorship,Medium,Yes,5
+24175592,Student_0952,Module4,Programme2,Year1,Week5,Thu,,,0.76,0.42,Canvas Activity_007,Tutoring,Medium,Yes,6
+23791267,Student_0953,Module4,Programme2,Year1,Week8,Thu,Test2,48.2,0.85,0.58,Assessment Failure_007,Escalation,High,Yes,6
+24593023,Student_0954,Module4,Programme2,Year1,Week2,Wed,Test2,53.7,0.92,0.95,None,None,Low,Yes,6
+23497562,Student_0955,Module4,Programme2,Year1,Week6,Thu,Test1,21.4,0.79,0.76,Assessment Failure_007,Escalation,High,No,6
+24751541,Student_0956,Module3,Programme2,Year1,Week3,Mon,Test2,68.0,0.69,0.69,Class Attendance_007,Counselling,High,No,6
+23383934,Student_0957,Module4,Programme2,Year1,Week12,Fri,,,0.95,0.54,Canvas Activity_007,Email Reminder,Medium,Yes,6
+24940624,Student_0958,Module1,Programme1,Year2,Week12,Fri,,,0.93,0.59,Canvas Activity_007,Mentorship,Medium,Yes,5
+24913760,Student_0959,Module3,Programme2,Year1,Week10,Tue,Assignment2,42.2,0.68,0.42,Assessment Failure_007,Tutoring,High,Yes,6
+23317428,Student_0960,Module1,Programme1,Year2,Week5,Tue,,,1.0,0.76,None,None,Low,No,5
+24367763,Student_0961,Module2,Programme1,Year3,Week12,Fri,,,1.0,0.67,None,None,Low,Yes,5
+24042892,Student_0962,Module3,Programme2,Year1,Week8,Mon,,,0.84,0.61,None,None,Low,Yes,6
+23690907,Student_0963,Module3,Programme2,Year1,Week10,Wed,,,0.83,0.77,None,None,Low,Yes,6
+24932015,Student_0964,Module4,Programme2,Year1,Week1,Wed,,,0.9,0.85,None,None,Low,Yes,6
+23082844,Student_0965,Module3,Programme2,Year1,Week5,Mon,,,0.69,1.0,Class Attendance_007,Tutoring,Medium,Yes,6
+24600396,Student_0966,Module3,Programme2,Year1,Week3,Wed,,,0.82,0.51,Canvas Activity_007,Counselling,High,No,6
+24213997,Student_0967,Module2,Programme1,Year3,Week4,Thu,,,0.5,0.99,Class Attendance_007,Tutoring,Medium,Yes,5
+23122402,Student_0968,Module3,Programme2,Year1,Week2,Fri,Test1,39.1,0.95,0.96,Assessment Failure_007,Tutoring,High,No,6
+24166588,Student_0969,Module2,Programme1,Year3,Week9,Fri,Assignment2,59.0,0.59,0.64,Class Attendance_007,Tutoring,Medium,No,5
+23438661,Student_0970,Module1,Programme1,Year2,Week3,Mon,,,1.0,0.82,None,None,Low,Yes,5
+23398929,Student_0971,Module4,Programme2,Year1,Week2,Wed,Assignment2,40.3,0.77,0.7,Assessment Failure_007,Counselling,High,No,6
+23580466,Student_0972,Module4,Programme2,Year1,Week10,Tue,Test2,76.6,0.79,0.81,None,None,Low,Yes,6
+23573695,Student_0973,Module4,Programme2,Year1,Week11,Tue,,,0.73,1.0,None,None,Low,Yes,6
+23463556,Student_0974,Module3,Programme2,Year1,Week9,Wed,Assignment1,53.3,0.78,0.89,None,None,Low,Yes,6
+23575278,Student_0975,Module3,Programme2,Year1,Week7,Tue,,,1.0,0.87,None,None,Low,Yes,6
+23993176,Student_0976,Module5,Programme3,Year1,Week6,Mon,,,0.45,0.7,Class Attendance_007,Email Reminder,Medium,Yes,7
+24178049,Student_0977,Module3,Programme2,Year1,Week1,Mon,,,1.0,0.51,Canvas Activity_007,Counselling,High,No,6
+23983049,Student_0978,Module3,Programme2,Year1,Week5,Wed,,,0.87,0.74,None,None,Low,Yes,6
+23478007,Student_0979,Module1,Programme1,Year2,Week12,Tue,Assignment1,64.3,0.64,1.0,Class Attendance_007,Tutoring,Medium,Yes,5
+23844573,Student_0980,Module2,Programme1,Year3,Week11,Mon,,,0.66,0.51,Canvas Activity_007,Mentorship,Medium,No,5
+24465585,Student_0981,Module3,Programme2,Year1,Week11,Mon,,,1.0,0.59,Canvas Activity_007,Tutoring,Medium,Yes,6
+24367290,Student_0982,Module3,Programme2,Year1,Week3,Thu,,,0.68,0.8,Class Attendance_007,Tutoring,High,No,6
+24274732,Student_0983,Module3,Programme2,Year1,Week1,Thu,Test1,80.7,0.65,0.6,Class Attendance_007,Tutoring,High,No,6
+24217540,Student_0984,Module3,Programme2,Year1,Week4,Mon,Test2,45.6,0.99,0.64,Assessment Failure_007,Counselling,High,No,6
+23525303,Student_0985,Module4,Programme2,Year1,Week2,Wed,,,0.87,0.7,None,None,Low,Yes,6
+24110389,Student_0986,Module4,Programme2,Year1,Week2,Fri,Assignment2,67.3,0.68,0.53,Canvas Activity_007,Tutoring,High,No,6
+23027712,Student_0987,Module4,Programme2,Year1,Week3,Fri,,,0.85,0.6,None,None,Low,Yes,6
+24673361,Student_0988,Module4,Programme2,Year1,Week8,Mon,Test2,25.5,0.67,0.91,Assessment Failure_007,Counselling,High,No,6
+24974495,Student_0989,Module5,Programme3,Year1,Week8,Mon,Assignment1,46.1,0.99,0.54,Assessment Failure_007,Tutoring,High,No,7
+24815790,Student_0990,Module1,Programme1,Year2,Week12,Mon,Assignment2,56.0,0.98,0.49,Canvas Activity_007,Email Reminder,Medium,Yes,5
+23112816,Student_0991,Module1,Programme1,Year2,Week7,Wed,Test2,74.7,0.9,0.67,None,None,Low,Yes,5
+24177354,Student_0992,Module1,Programme1,Year2,Week6,Thu,,,0.87,0.91,None,None,Low,Yes,5
+24635156,Student_0993,Module4,Programme2,Year1,Week9,Mon,,,1.0,0.74,None,None,Low,No,6
+23285977,Student_0994,Module5,Programme3,Year1,Week4,Mon,Test2,36.7,0.82,0.7,Assessment Failure_007,Counselling,High,Yes,7
+23135230,Student_0995,Module2,Programme1,Year3,Week12,Tue,,,0.64,0.79,Class Attendance_007,Tutoring,Medium,Yes,5
+24766616,Student_0996,Module5,Programme3,Year1,Week1,Wed,Test1,85.8,0.89,0.47,Canvas Activity_007,Counselling,High,No,7
+23806741,Student_0997,Module1,Programme1,Year2,Week8,Mon,,,1.0,0.87,None,None,Low,No,5
+23269114,Student_0998,Module5,Programme3,Year1,Week7,Tue,Assignment1,45.7,0.67,0.85,Assessment Failure_007,Counselling,High,Yes,7
+24383194,Student_0999,Module3,Programme2,Year1,Week7,Fri,,,0.77,0.71,None,None,Low,Yes,6
+24004208,Student_1000,Module1,Programme1,Year2,Week3,Mon,,,0.88,0.96,None,None,Low,Yes,5
